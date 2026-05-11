@@ -26,11 +26,11 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-water: **[Comment avoir un premier seau d'eau](premier-seau-eau.md)**
 
-    Chaudron + pluie, glace, snow golem. Premier seau d'eau quand tu n'as pas de lac.
+    Chaudron + pluie.
 
 -   :material-gold: **[Comment avoir de l'or](comment-avoir-or.md)**
 
-    Les 5 sources : troc piglin, piglins zombifiés, recette custom, drop noyés, loot bastion.
+    Il te faudra sacrifier tes cochons.
 
 -   :material-emoticon: **[Il me faut des émeraudes pour le marchand ambulant](emeraudes-marchand.md)**
 
@@ -38,7 +38,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-skull-outline: **[Ferme à mobs sans water stream](ferme-mobs-sans-eau.md)**
 
-    5 méthodes pour collecter les drops sans eau : drop chute, slime block, hopper minecart, lave directe.
+   Ta toutes première ferme à mob quand tu n'as d'eau.
 
 </div>
 

@@ -1,132 +1,141 @@
-# Tuto — Comment avoir de l'or
+# Tuto — Comment avoir de l'or en early game
 
-L'or est rare sur TdR car les minerais sont vidés. Heureusement, plusieurs sources permettent d'en accumuler. Voici l'ordre de priorité selon ton stade.
+L'or est essentiel en early game pour fabriquer des **pommes dorées**, indispensables pour **soigner des villageois zombies** (et donc débloquer le trade émeraudes → marchand ambulant).
+
+**Objectif typique** : 16 lingots d'or = 2 pommes dorées = 2 cures de villageois zombies.
 
 !!! info "Vidéo à venir"
-    Enregistrement vidéo à venir.
+    Tuto vidéo en cours.
 
 <!--
 <iframe width="100%" height="500"
   src="https://www.youtube.com/embed/VIDEO_ID"
   title="Comment avoir de l'or — Vanilla Sky TdR" frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+  allowfullscreen></iframe>
 -->
 
-## Vue d'ensemble — 5 sources
+## ⚡ La méthode principale : ferme à cochons + paratonnerre
 
-| Source | Rate | Phase de jeu |
+### Le principe
+
+1. Construis un **enclos de cochons** avec **beaucoup** de cochons dedans
+2. Place un **paratonnerre pas trop haut** dans/près de l'enclos
+3. Attends un orage → la foudre tape le paratonnerre
+4. **Les cochons à proximité du point d'impact se transforment en piglins zombifiés**
+5. Tue les piglins zombifiés → drop **pépites d'or** (et parfois rare **lingot d'or**)
+
+### Pourquoi ça marche
+
+En vanilla MC, un éclair qui frappe à moins de **~4 blocs d'un cochon** le transforme en **piglin zombifié**. Le paratonnerre **attire** la foudre pendant les orages dans un rayon de 32×4×32 blocs.
+
+→ Tu canalises la foudre vers ton enclos via le paratonnerre, et **tout le bétail dans la zone d'effet se zombifie d'un coup**.
+
+### Pré-requis
+
+- **1er cochon** : pas trivial à obtenir (pas de spawn naturel dans l'overworld voidé). Options :
+    - Baby zombie monté sur un cochon (très rare spawn) → capture le cochon
+    - Plateforme d'herbe dans la BB d'un biome plaine/savane → spawns naturels possibles
+- **Carottes / pommes de terre** pour reproduire (drop zombie via player kill — voir succès `zombie_crop`)
+- **1 lingot de cuivre** pour le paratonnerre
+
+### Étape 1 — Obtenir le premier cochon
+
+Selon la chance et ta progression :
+
+| Méthode | Difficulté |
+|---|---|
+| Baby zombie qui spawn monté sur cochon | RNG, rare |
+| Plateforme d'herbe dans BB plaine → spawn naturel | Si tu peux atteindre la BB |
+| Trade marchand ambulant (parfois œuf de cochon) | Aléatoire selon trades |
+
+### Étape 2 — Élever les cochons
+
+Une fois 2 cochons obtenus :
+- Donne **1 carotte / pomme de terre / betterave** à chacun → mode amour → bébé
+- Compte ~5 min de croissance pour le bébé adulte
+
+Cible : **8-12 cochons** minimum dans ton enclos pour optimiser le retour par orage.
+
+### Étape 3 — Construire l'enclos + paratonnerre
+
+```
+Vue de dessus :
+┌──────────────┐
+│  Cochons  cochons cochons │
+│  cochons  cochons     │
+│  cochons  cochons  P  │ ← P = paratonnerre
+│  cochons  cochons     │
+└──────────────┘
+```
+
+- **Enclos** : 5×5 ou 6×6 entouré de barrières
+- **Paratonnerre** : posé sur un bloc à **1-2 blocs de hauteur** au-dessus du sol de l'enclos
+    - **Pas trop haut** sinon les cochons sont trop loin du point d'impact pour se transformer
+    - **Pas au sol** sinon les cochons collent contre
+
+### Étape 4 — Attendre un orage
+
+Les orages sont aléatoires en MC (chaque pluie a une chance de devenir orage). Patience.
+
+`/island keepalive on` pour que ça tourne même offline.
+
+### Étape 5 — La foudre frappe
+
+Quand l'orage arrive et que la foudre tape le paratonnerre, tous les cochons dans un **rayon de ~4 blocs** se transforment en **piglins zombifiés**.
+
+⚠️ **Les piglins zombifiés sont neutres au début, mais agressifs si tu en attaques un (= alerte le groupe).** Prépare-toi :
+- Armure (au moins fer si possible)
+- Épée
+- Pomme dorée enchantée en réserve pour le clutch
+
+### Étape 6 — Tuer les piglins zombifiés
+
+**Drops par kill** (vanilla) :
+- 0-1 **pépite d'or** (très courant)
+- 0-1 **lingot d'or** (rare, ~5%)
+- 0-1 **chair putréfiée**
+- Avec Pillage III : drops boostés
+
+**Ratio attendu** :
+- ~0.5 pépite d'or par kill en moyenne
+- 9 pépites = 1 lingot d'or
+- Pour 16 lingots d'or (2 pommes dorées) → environ **160-200 piglins zombifiés tués au total**
+
+C'est beaucoup, mais avec un cycle régulier (orages + reproduction des cochons survivants), tu accumules vite.
+
+## 🥄 Méthode secondaire : fondre le stuff en or (peu efficace)
+
+Les zombies et squelettes nocturnes peuvent spawn avec **équipement en or** (épée en or, casque en or). Quand tu les tues, ils drop parfois leur stuff.
+
+→ Met le stuff au four → **1 pépite d'or** par item fondu.
+
+| Item | Coût original | Récup au four |
 |---|---|---|
-| Troc piglins | ⭐⭐⭐⭐⭐ | Mid-game (besoin de Nether) |
-| Kill piglin zombifié | ⭐⭐⭐ | Mid-game |
-| Recette minerai d'or custom | ⭐⭐ | Mid/late (besoin de 4 lingots) |
-| Drop noyé avec or | ⭐ | Early-mid (rare) |
-| Loot bastion (piglin brute) | ⭐⭐⭐⭐ | Late-game |
+| Épée en or | 2 lingots (18 pépites) | 1 pépite |
+| Casque en or | 5 lingots (45 pépites) | 1 pépite |
 
-## Source 1 — Troc avec piglins (la meilleure)
+**→ Très lossy** (~95% de perte par rapport au matériau original). Recommandé uniquement comme bonus quand tu farms les zombies pour autre chose (fer, par exemple), mais pas comme source principale.
 
-Le **troc piglin** est la source la plus efficace : tu jettes un **lingot d'or** au sol près d'un piglin, il te jette un objet aléatoire en retour.
-
-### Setup pour farm troc
-
-1. Construis un portail Nether → traverse vers ton Nether privé
-2. Bridge sécurisée vers une zone de spawn de piglins (forêts carmin/biscornu ou n'importe quel biome non-désolé)
-3. Aménage une zone where piglins spawnent mais ne peuvent pas attaquer
-4. Jette les lingots, ramasse les retours via hopper
-
-### Loot table piglins (résumé)
-
-Le pool inclut ~25 items différents avec différents poids :
-- **Obsidienne pleureuse** (~3%)
-- **Quartz du Nether** (~12%)
-- **Glowstone** (~9%)
-- **Cordon de feu** (~9%)
-- **Perle de l'Ender** (~4.7%)
-- **Roche noire dorée** (~1.1%)
-- **Disque Pigstep** (~1.1% — drop uniquement en bastion BB)
-- **Verre teinté magenta** (~9%)
-- etc.
-
-→ Le retour moyen vaut **plus que 1 lingot d'or** statistically, donc c'est un farm rentable.
-
-!!! tip "Bonus : kits Pigstep"
-    Si tu fais le troc **dans la BB d'un vestige de bastion**, certains drops sont boostés/changés. Voir [Disques musicaux](../mecaniques/disques.md).
-
-## Source 2 — Tuer des piglins zombifiés
-
-Les piglins zombifiés spawnent dans :
-- **Nether** (commun, biomes carmin/biscornu)
-- **Overworld** : un piglin qui passe par un portail Nether → Overworld se transforme en piglin zombifié au bout de 15s
-
-### Loot
-
-- **Lingot d'or** : 0-1 par kill (vanilla)
-- **Pépite d'or** : 0-1 par kill, +1 par level de Pillage
-- **Tête de piglin** : si tué par un creeper chargé
-
-### Setup farm
-
-Spawn pad classique en Nether (light 0, plateforme solide) → ils tombent → killbox.
-
-Sans water stream (pas dispo en Nether à cause de l'évaporation), tu peux pousser via :
-- **Slime block + piston** pour pousser
-- **Lava blade** (lame de lave qui les softens avant kill)
-- **Drop tube** : fais-les tomber dans une drop de 24+ blocs pour kill 1-shot
-
-## Source 3 — Recette minerai d'or custom
-
-Sur TdR, tu peux **crafter un minerai d'or** depuis 4 lingots d'or + 1 pierre :
+## Stratégie recommandée
 
 ```
-. O .
-O B O
-. O .
+Phase 1 — Farm de zombies + fer (~30 kills pour 7 lingots de fer)
+Phase 2 — Capture 1er cochon + farm carottes/patates (drops zombies)
+Phase 3 — Reproduction cochons → enclos de 8-12 cochons
+Phase 4 — Paratonnerre + attente orage → transformation en masse
+Phase 5 — Kill piglins zombifiés → cycle régulier d'or
+Phase 6 — 16 lingots accumulés → 2 pommes dorées → 2 cures de villageois zombies
 ```
-
-*O = lingot d'or · B = pierre*
-
-→ 1 minerai d'or qui, miné avec Fortune III, peut donner 2-4 lingots d'or.
-
-**Utilité** : pas pour produire de l'or (tu en consommes 4 pour en récupérer ~2-4), mais pour **stocker** de l'or sous forme minée (pour XP via fonte) ou pour cycle Fortune avec une pioche.
-
-## Source 4 — Drop noyés
-
-Les noyés qui tiennent un objet en main parfois ont :
-- **Trident** (~8%)
-- **Pépite d'or** (rare)
-- **Lingot d'or de carapace de tortue** (~3%)
-- **Aubergines** d'autres items selon profession
-
-Le drop est très variable. Pas une source fiable de farm, mais bonus accessoire si tu farms les noyés pour autre chose (cœur de la mer, éclat d'écho).
-
-## Source 5 — Vestiges de bastion (loot)
-
-Une fois que tu sais éviter / battre les piglins brutes, les vestiges de bastion contiennent :
-- **Lingots d'or** dans les coffres préservés... ah wait, sur TdR les blocs sont vidés y compris les coffres
-- **Drop des piglins brutes** : ils peuvent drop lingots d'or, dorure noire dorée, et items rares
-
-Vu que les blocs sont vidés, c'est surtout le **spawn de piglins brutes** dans la BB qui te donne l'or via kill.
-
-## Stratégie recommandée selon ton stade
-
-### Phase 1 — Early game (avant Nether)
-→ **Pas accessible**, focus sur fer/charbon/autres ressources d'abord.
-
-### Phase 2 — Mid-game (Nether unlocked)
-→ **Farm troc piglin** en masse. C'est la source la plus efficace.
-
-### Phase 3 — Late-game
-→ Combine farm troc + farm piglins zombifiés + loot bastion pour accumulation rapide.
 
 ## Astuces
 
-- **Stockage** : transforme les lingots en **blocs d'or** (9 lingots = 1 bloc) pour économiser l'espace
-- **XP** : tu peux fondre des blocs d'or au four pour récupérer XP en plus
-- **Armure dorée** : si tu portes au moins 1 pièce d'armure dorée, les piglins ne t'attaquent pas (utile pour farms sécurisés)
+- **Plusieurs enclos** : tu peux faire **2-3 enclos avec paratonnerre** en parallèle pour multiplier le retour par orage
+- **Hopper sous la zone de kill** : automatise la collecte des drops piglin zombifié
+- **Armure en or** : si tu portes au moins 1 pièce d'armure dorée, les piglins zombifiés ne t'attaquent **pas** spontanément (utile pour les manipuler en sécurité)
 
 ## Liens connexes
 
-- [Mécanique : Roche noire dorée (troc)](../mecaniques/mobs.md#roche-noire-doree)
-- [Recette : Minerai d'or](../recettes/minerais.md)
-- [Vestiges de bastion](../concept.md#exceptions-preservees)
+- [Premier seau d'eau](premier-seau-eau.md) — autre dépendance early game qui demande des zombie kills
+- [Émeraudes pour marchand ambulant](emeraudes-marchand.md) — la suite logique : utiliser tes pommes dorées pour cure des villageois zombies
+- [Recette : Minerai d'or](../recettes/minerais.md) — utile **après** avoir un stock d'or pour générer plus via Fortune

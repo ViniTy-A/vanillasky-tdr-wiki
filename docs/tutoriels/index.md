@@ -38,7 +38,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-skull-outline: **[Ferme à mobs sans water stream](ferme-mobs-sans-eau.md)**
 
-    Ta toutes première ferme à mob quand tu n'as d'eau.
+    Ta toutes première ferme à mob quand tu n'as pas d'eau.
 
 </div>
 
@@ -48,7 +48,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-diamond-stone: **[Druse d'améthyste artificielle](druse-amethyste.md)**
 
-    Le pattern 3×3×3 basalte lisse + calcite + lave pour faire une géode artificielle.
+    Le pattern 3×3×3 basalte lisse + calcite + lave pour faire une druse d'améthyste.
 
 -   :material-egg: **[Œuf de renifleur (chaîne complète)](oeuf-renifleur.md)**
 
@@ -89,12 +89,5 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 Si tu veux un tuto sur un sujet précis, demande sur le Discord ou ouvre une issue [GitHub](https://github.com/ViniTy-A/vanillasky-tdr-wiki/issues).
 
 Idées en stock :
-- [ ] Comment avoir du fer (autres méthodes que la recette)
-- [ ] Construction Conduit complet (cadre prismarine maximal)
-- [ ] Setup spawn de phantoms (pour potions Chute lente)
-- [ ] Récupérer le motif de bannière piglin (via zoglin)
 - [ ] Élytres via endermite (chute lente + lévitation)
 - [ ] Shulker renouvelable (respawn dragon)
-- [ ] Éponge via gardien ancestral
-- [ ] Comment avoir de la laine sans mouton (champignon, marchand ambulant, drop spider)
-- [ ] Comment avoir des graines sans casser de l'herbe (marchand ambulant, composteur)

@@ -15,9 +15,8 @@ En skyblock il n'y a **rien** sous ton île — juste le vide. Pour profiter des
 
 ## Pourquoi descendre ?
 
-- **Spawn rate de mobs ×2 ou plus** — plus tu es bas dans le monde, plus les mobs hostiles spawnent souvent et en plus grand nombre
+- **Spawn rate de mobs ×44** — l'algorithme de spawn de MC choisit une Y aléatoire entre le bloc le plus haut de la colonne et Y=-64. Plus tu es bas, plus la plage est petite et concentrée sur ta plateforme. Mesuré : ~19 500 spawns/heure à Y=-64 contre ~440 à Y=0
 - **Pas de phantoms** — sous Y=64, l'absence d'accès direct au ciel empêche les phantoms de spawner au-dessus de toi
-- **Light level 0 facile** — pas de soleil, pas de luminescence ambiante. Tes plateformes de spawn sont sombres par défaut
 
 ## Matériel requis
 

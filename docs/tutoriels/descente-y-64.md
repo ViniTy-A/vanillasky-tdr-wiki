@@ -20,8 +20,8 @@ En skyblock il n'y a **rien** sous ton île — juste le vide. Pour profiter des
 
 ## Matériel requis
 
-- **~130 trappes** (n'importe quel bois — chêne suffit)
-- **~130 blocs** (pierre, terre, n'importe quoi de solide pour les placements vers le bas)
+- **3 trappes** (n'importe quel bois — chêne suffit). Tu les récupères et tu les replaces à chaque step
+- **~130 blocs** (pierre, terre, n'importe quoi de solide pour les placements vers le bas, 1 par bloc de descente)
 
 ## La technique — Descente par trappes
 

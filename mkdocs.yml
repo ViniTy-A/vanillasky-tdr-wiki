@@ -148,6 +148,11 @@ nav:
       - Farms avancées:
           - Farm Warden: tutoriels/farm-warden.md
           - Farm de coraux: tutoriels/farm-corail.md
+      - À compléter:
+          - Tuto 1: tutoriels/tuto-1.md
+          - Tuto 2: tutoriels/tuto-2.md
+          - Tuto 3: tutoriels/tuto-3.md
+          - Tuto 4: tutoriels/tuto-4.md
   - Setup client: setup-client.md
   - Stratégie d'exploration: strategie-exploration.md
   - Vocabulaire: vocabulaire.md

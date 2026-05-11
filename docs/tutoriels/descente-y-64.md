@@ -19,9 +19,9 @@ Quand tu débutes sur ton île à Y=64, tu n'as pas tout de suite un seau d'eau 
 
 ## Pourquoi descendre ?
 
-- Récupérer des items qui sont tombés sur les couches inférieures
-- Construire en profondeur (proche du bedrock)
-- Atteindre les BB de structures qui spawnent à Y bas (ancienne cité, monument océanique, etc.)
+- **Spawn rate de mobs ×2 ou plus** — plus tu es bas dans le monde, plus les mobs hostiles spawnent souvent et en plus grand nombre (la mob cap par chunk se charge davantage dans les couches profondes vu que tu y monopolises la zone de spawn)
+- **Pas de phantoms** — sous Y=64, l'absence d'accès direct au ciel empêche les phantoms de spawner au-dessus de toi. Tu peux dormir tranquille sans set up de spleef anti-phantom
+- **Light level 0 facile** — pas de soleil, pas de luminescence ambiante. Tes plateformes de spawn sont sombres par défaut sans torch management
 
 ## Technique 1 — Pilier de blocs (le plus simple)
 

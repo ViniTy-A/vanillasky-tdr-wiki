@@ -2,7 +2,7 @@
 
 Manuel du joueur du serveur Skyblock **Vanilla Sky TdR** (« Tout de Rien ») — Fabric MC 1.21.11.
 
-🌐 **Site publié** : https://vinity-a.github.io/wiki-TdR/
+🌐 **Site publié** : https://vinity-a.github.io/vanillasky-tdr-wiki/
 
 ## Structure
 
@@ -28,7 +28,7 @@ wiki/
 
 ### Via l'éditeur web GitHub (le plus simple)
 
-1. Va sur https://github.com/ViniTy-A/wiki-TdR
+1. Va sur https://github.com/ViniTy-A/vanillasky-tdr-wiki
 2. Navigue dans `docs/`, clique sur la page à modifier
 3. Bouton crayon (Edit) → fais tes changements en Markdown
 4. **Commit changes** → le site se rebuild automatiquement (~1 min)
@@ -36,8 +36,8 @@ wiki/
 ### Via clone local (pour gros changements ou preview)
 
 ```bash
-git clone https://github.com/ViniTy-A/wiki-TdR.git
-cd wiki-TdR
+git clone https://github.com/ViniTy-A/vanillasky-tdr-wiki.git
+cd vanillasky-tdr-wiki
 pip install -r requirements.txt
 mkdocs serve  # preview live sur http://127.0.0.1:8000
 ```

@@ -77,7 +77,7 @@ C'est le **trick essentiel** pour ne plus jamais manquer d'eau.
 ## Récap visuel
 
 ```
-Phase 1 (long) : 30 kills zombie → 10 lingots fer → 1 chaudron + 1 seau
+Phase 1 (long) : ~300 kills zombie → 10 lingots fer → 1 chaudron + 1 seau
 Phase 2 (long) : Pluie → chaudron plein → 1 seau d'eau ★ première source
 Phase 3 (∞)   : 1 source d'eau + fioles → infinie seaux d'eau
 ```

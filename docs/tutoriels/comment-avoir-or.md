@@ -120,7 +120,7 @@ Les zombies et squelettes nocturnes peuvent spawn avec **équipement en or** (é
 ## Stratégie recommandée
 
 ```
-Phase 1 — Farm de zombies + fer (~30 kills pour 7 lingots de fer)
+Phase 1 — Farm de zombies + fer (~300 kills pour ~10 lingots de fer = chaudron + seau)
 Phase 2 — Capture 1er cochon + farm carottes/patates (drops zombies)
 Phase 3 — Reproduction cochons → enclos de 8-12 cochons
 Phase 4 — Paratonnerre + attente orage → transformation en masse

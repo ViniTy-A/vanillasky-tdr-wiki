@@ -11,9 +11,9 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 <div class="grid cards" markdown>
 
--   :material-arrow-down-thick: **[Descente à Y=-64 sans seau d'eau](descente-y-64.md)**
+-   :material-arrow-down-thick: **[Descente à Y=-64](descente-y-64.md)**
 
-    Toutes les techniques pour descendre dans le vide en sécurité depuis ton île à Y=64 (pilier, échafaudage, foin, chute lente).
+    Comment construire ta voie de descente bloc par bloc grâce à la technique des trappes (seule méthode viable en early game).
 
 </div>
 

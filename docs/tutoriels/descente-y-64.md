@@ -1,6 +1,6 @@
-# Tuto — Descendre à Y=-64 sans seau d'eau
+# Tuto — Descendre à Y=-64
 
-Quand tu débutes sur ton île à Y=64, tu n'as pas tout de suite un seau d'eau pour faire un bucket-MLG en bas. **Une seule technique est viable en early game** : la descente par trappes.
+En skyblock il n'y a **rien** sous ton île — juste le vide. Pour profiter des avantages des couches profondes (spawn rate boost, pas de phantoms), il faut **construire ta propre voie de descente bloc par bloc**. **Une seule technique est viable en early game** : la descente par trappes.
 
 !!! info "Vidéo à venir"
     Tuto vidéo en cours d'enregistrement par l'admin du serveur.

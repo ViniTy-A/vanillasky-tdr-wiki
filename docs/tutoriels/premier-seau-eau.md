@@ -85,7 +85,6 @@ Phase 3 (∞)   : 1 source d'eau + fioles → infinie seaux d'eau
 ## Astuces
 
 - **Plusieurs chaudrons** : si tu peux te permettre les lingots, plusieurs chaudrons en parallèle = remplissage en parallèle pendant un orage
-- **Stockage de fioles** : crafte plusieurs fioles dès que tu as un peu de sable (verre) pour avoir un buffer
 - **Source infinie classique** : une fois 2 sources d'eau placées à 1 bloc d'écart, le bloc central devient une nouvelle source = source infinie de l'autre côté
 
 ## Liens connexes

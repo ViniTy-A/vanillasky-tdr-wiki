@@ -48,7 +48,7 @@ Le principe exploite le mode **allongé** (prone) qu'on prend automatiquement qu
     Garde toujours **plusieurs piles** dans ton hotbar : trappes en main 1, blocs en main 2. Switch rapide entre les deux pour optimiser le rythme.
 
 !!! warning "Concentration"
-    Si tu rates un shift+clic et que tu casses ta trappe support, tu **tombes** dans le vide jusqu'à la mort à Y=-64. Avance prudemment, sauvegarde ta progression régulièrement (le sleep si possible).
+    Si tu rates un shift+clic et que tu casses ta trappe support, tu **tombes** dans le vide jusqu'à la mort à Y=-64. Avance prudemment !
 
 ## Élytres (endgame seulement)
 

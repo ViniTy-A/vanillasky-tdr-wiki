@@ -63,7 +63,7 @@ C'est le **trick essentiel** pour ne plus jamais manquer d'eau.
 1. **Pose ta source d'eau** : clic-droit au sol avec ton seau d'eau (entoure-la de blocs pour éviter qu'elle s'écoule partout)
 2. **Remplis une fiole** : clic-droit sur la source d'eau avec une **fiole vide** (glass bottle) → tu obtiens une **fiole d'eau**
 3. **Vide la fiole dans un chaudron** : clic-droit sur un chaudron avec la fiole d'eau → ajoute 1 niveau d'eau au chaudron
-4. **Répète 3 fois** : 3 fioles d'eau = chaudron plein
+4. **Répète encore 2 fois** (étapes 2-3) : au total 3 fioles d'eau = chaudron plein
 5. **Récupère avec un seau vide** : clic-droit sur le chaudron plein avec un seau vide → seau d'eau
 
 ### Pourquoi c'est infini

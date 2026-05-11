@@ -1,116 +1,107 @@
 # Tuto — Obtenir un premier seau d'eau
 
-Tu es sur une île qui flotte dans le vide. Pas de lac, pas de rivière, pas d'océan accessible. Comment remplir ton seau ?
+Sur ton île, pas de lac, pas de rivière, pas d'océan. Voici la **vraie** procédure pour avoir ton premier seau d'eau sur TdR.
 
 !!! info "Vidéo à venir"
-    Enregistrement vidéo à venir.
+    Tuto vidéo en cours.
 
 <!--
 <iframe width="100%" height="500"
   src="https://www.youtube.com/embed/VIDEO_ID"
   title="Premier seau d'eau — Vanilla Sky TdR" frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+  allowfullscreen></iframe>
 -->
 
-## Méthode 1 — Chaudron + pluie (la plus accessible)
+## Étape 1 — Réunir 7 lingots de fer (pour le chaudron)
 
-C'est la **méthode standard** sur tous les skyblock.
+!!! warning "Pas de recette custom au début"
+    La recette custom de minerai de fer en croix demande **4 lingots de fer** pour produire 1 minerai. Donc impossible à utiliser comme **première source** de fer. C'est un piège logique — ne perds pas de temps là-dessus avant d'avoir déjà du stock.
 
-### Étape 1 — Obtenir 7 lingots de fer
+**La seule source de fer en early game** : tuer des **zombies** par **player kill** (drop rate ~3.5% par kill — très bas).
 
-Le minerai de fer vient de la recette custom en croix (voir [Recette minerais](../recettes/minerais.md)) :
+→ Construis une **zone de spawn nocturne** (sombre, light 0) près de ton île pour attirer les zombies, puis tue-les un par un à la main.
 
-- 4 lingots de fer + 1 pierre → 1 minerai de fer
-- Mais... il faut déjà 4 lingots de fer pour faire 1 minerai. Donc **où viennent les premiers lingots ?**
+Compte environ **30 kills** pour obtenir 7 lingots de fer.
 
-**Sources de fer initiale** :
-- **Iron golem farm via villageois** : pas accessible au début
-- **Goules / Husks** : drop rare de lingot de fer
-- **Drop noyés** : 11% chance par kill
-- **Trade marchand ambulant** : pas direct
-- **Récompense succès** : certains succès TdR récompensent du fer
+## Étape 2 — Crafter le chaudron + le poser
 
-**Méthode pratique pour les 7 premiers lingots de fer** :
-1. Construis un **spawn pad de zombies/squelettes** (zone sombre, light 0)
-2. Tue les zombies, certains drop des lingots de fer (3.5% chance vanilla)
-3. Compte ~30 kills pour 7 lingots de fer
-
-### Étape 2 — Crafter le chaudron
-
+Recette :
 ```
 F . F
 F . F
 F F F
 ```
-
 *F = lingot de fer · 7 lingots au total*
 
-### Étape 3 — Poser le chaudron sous le ciel
+Pose le chaudron **dans une zone exposée au ciel** (pas sous un toit, pas dans une cave). Sans accès direct au ciel, la pluie ne le remplit pas.
 
-Place le chaudron **dans une zone exposée au ciel** (pas sous un toit, pas dans une cave).
+## Étape 3 — Attendre la pluie (long)
 
-### Étape 4 — Attendre la pluie
+À chaque tick de pluie, le chaudron se remplit légèrement. Compte plusieurs **dizaines de minutes** de pluie effective pour avoir un chaudron plein (3 niveaux d'eau).
 
-À chaque tick de pluie, le chaudron se remplit légèrement. Il faut environ **20-30 minutes de pluie** pour avoir un chaudron plein (3 niveaux d'eau).
+La pluie elle-même est aléatoire en MC (12 000 à 180 000 ticks entre deux orages = 10 min à 2.5h).
 
-**Pluie aléatoire** : vanilla MC déclenche la pluie tous les 12 000 à 180 000 ticks (10 min à 2.5h).
+**→ Patience.** Profite de ce temps pour farmer plus de fer (voir Étape 4).
 
-→ Patience. Active `/island keepalive on` et fais d'autres choses pendant ce temps.
+## Étape 4 — En parallèle : 3 lingots de fer supplémentaires (pour le seau)
 
-### Étape 5 — Récupérer l'eau
+Pendant que le chaudron se remplit, continue de farmer le zombie spawn pour avoir 3 lingots de fer en plus.
 
-Quand le chaudron est plein, clic-droit avec un **seau vide** → seau d'eau.
+Crafte un **seau** :
+```
+F . F
+. F .
+```
+*3 lingots de fer*
 
-Crafte des seaux supplémentaires (3 lingots de fer chacun) pour stocker.
+## Étape 5 — Récupérer l'eau du chaudron
 
-## Méthode 2 — Trade Héros du village (intermediate)
+Quand le chaudron est plein, clic-droit avec le **seau vide** → seau d'eau. 🎉
 
-Si tu as déjà des villageois (cure zombie villager — voir [tuto émeraudes](emeraudes-marchand.md)) et que tu gagnes un raid :
+## ⚡ Méthode alternative : fioles de sorcières
 
-- Effet **Héros du village** activé → certains villageois te lancent des **cadeaux**
-- Le pool de cadeaux inclut (selon profession) des seaux d'eau pour certaines
-- C'est **PAS** la méthode principale, mais en bonus
+Si la pluie traîne et que tu trouves des sorcières (drop occasionnel) :
 
-## Méthode 3 — Snow Golem (renouvelable, indirect)
+**Les sorcières drop des fioles** (glass bottles) à la mort. Tu peux utiliser ces fioles pour collecter l'eau de pluie **au sol** (ou dans une source d'eau si tu en as une).
 
-Tu n'obtiens pas directement de l'eau, mais des **blocs de neige** → cours d'eau improvisé :
+→ Moins efficace que le chaudron pour le **premier** seau d'eau, mais utile si tu as la chance de tomber sur une sorcière tôt.
 
-1. Crée un Snow Golem (2 blocs de neige + citrouille gravée)
-2. Place-le dans un biome froid
-3. Il pose de la neige derrière lui en marchant
-4. Récupère les blocs avec une pelle → boule de neige → 4 boules = 1 bloc de neige
-5. ❌ Tu n'as **pas** d'eau directement, mais tu peux faire fondre la neige en eau via lave adjacente — pas pratique
+## Étape 6 — Une fois ta première source d'eau obtenue : eau infinie via fioles
 
-→ Méthode **pas recommandée** pour le premier seau d'eau, mais utile une fois que tu en as déjà un.
+C'est le **trick essentiel** pour ne plus jamais manquer d'eau.
 
-## Méthode 4 — Cracking ice (avancé)
+### Procédure
 
-Une fois que tu as des outils en fer/diamant, tu peux **casser de la glace** (n'importe quelle variante de glace donne de l'eau si elle est cassée sans Toucher de soie).
+1. **Pose ta source d'eau** : clic-droit au sol avec ton seau d'eau (entoure-la de blocs pour éviter qu'elle s'écoule partout)
+2. **Remplis une fiole** : clic-droit sur la source d'eau avec une **fiole vide** (glass bottle) → tu obtiens une **fiole d'eau**
+3. **Vide la fiole dans un chaudron** : clic-droit sur un chaudron avec la fiole d'eau → ajoute 1 niveau d'eau au chaudron
+4. **Répète 3 fois** : 3 fioles d'eau = chaudron plein
+5. **Récupère avec un seau vide** : clic-droit sur le chaudron plein avec un seau vide → seau d'eau
 
-Mais la glace n'existe pas naturellement sur ton île — il faudrait :
-1. Trouver une rivière gelée ou un océan glacé
-2. Construire un pont jusque là
-3. Casser la glace → drop water source
+### Pourquoi c'est infini
 
-C'est viable comme alternative à long terme, mais pas pour le **premier** seau.
+- Une **source d'eau** ne peut **pas** être vidée par des fioles (seule l'extraction au seau la vide)
+- Donc 1 source d'eau = nombre **illimité** de remplissages de fioles
+- Et 3 fioles = 1 chaudron plein = 1 seau d'eau récupérable
 
-## Méthode recommandée selon ton stade
+**Conséquence pratique** : avec 1 source d'eau initiale + quelques fioles, tu peux remplir autant de seaux d'eau que tu veux sans jamais consommer ta source.
 
-| Stade | Méthode optimale |
-|---|---|
-| Tout début (juste pousses + chêne) | Survis 2-3 nuits, farm 7 lingots de fer, crafte chaudron, attends la pluie |
-| ≥7 lingots de fer | **Chaudron + pluie immédiatement** |
-| Endgame | Bridge vers la glace + casser, ou farm de villageois pour cadeaux |
+## Récap visuel
+
+```
+Phase 1 (long) : 30 kills zombie → 10 lingots fer → 1 chaudron + 1 seau
+Phase 2 (long) : Pluie → chaudron plein → 1 seau d'eau ★ première source
+Phase 3 (∞)   : 1 source d'eau + fioles → infinie seaux d'eau
+```
 
 ## Astuces
 
-- **Récolte la glace finie une fois bridgée** : 1 bloc de glace = 1 water source quand cassé
-- **Chaudrons multiples** : tu peux placer plusieurs chaudrons et collecter en parallèle pendant 1 orage
-- **Infinite water source** : une fois 2 sources d'eau placées à 1 bloc d'écart, tu peux remplir le bloc central et créer une source infinie pour ne plus jamais manquer
+- **Plusieurs chaudrons** : si tu peux te permettre les lingots, plusieurs chaudrons en parallèle = remplissage en parallèle pendant un orage
+- **Stockage de fioles** : crafte plusieurs fioles dès que tu as un peu de sable (verre) pour avoir un buffer
+- **Source infinie classique** : une fois 2 sources d'eau placées à 1 bloc d'écart, le bloc central devient une nouvelle source = source infinie de l'autre côté
 
 ## Liens connexes
 
-- [Recette minerais (fer)](../recettes/minerais.md)
-- [Mécanique : Seau de lave via Héros du village](../mecaniques/mobs.md#seau-de-lave-via-heros-du-village)
+- [Mécanique : Recettes minerais](../recettes/minerais.md) — utile **après** avoir du fer en stock
+- [Mécanique : Seau de lave via Héros du village](../mecaniques/mobs.md#seau-de-lave-via-heros-du-village) — pas pour l'eau, mais procédure similaire pour la lave

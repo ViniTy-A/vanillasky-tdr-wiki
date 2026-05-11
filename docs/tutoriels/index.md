@@ -38,7 +38,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-skull-outline: **[Ferme à mobs sans water stream](ferme-mobs-sans-eau.md)**
 
-   Ta toutes première ferme à mob quand tu n'as d'eau.
+    Ta toutes première ferme à mob quand tu n'as d'eau.
 
 </div>
 

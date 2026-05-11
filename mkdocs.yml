@@ -1,0 +1,138 @@
+site_name: Vanilla Sky TdR — Manuel du joueur
+site_description: Manuel complet du serveur Skyblock Vanilla Sky « Tout de Rien » (Fabric MC 1.21.11)
+site_author: ViniTy-A
+site_url: https://vinity-a.github.io/wiki-TdR/
+
+repo_url: https://github.com/ViniTy-A/wiki-TdR
+repo_name: ViniTy-A/wiki-TdR
+edit_uri: edit/main/docs/
+
+copyright: Vanilla Sky TdR — « Tout de Rien »
+
+theme:
+  name: material
+  language: fr
+  palette:
+    # Thème clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode sombre
+    # Thème sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode clair
+  font:
+    text: Roboto
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+plugins:
+  - search:
+      lang: fr
+      separator: '[\s\-\.]+'
+  - tags
+
+markdown_extensions:
+  # Mise en forme
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  # Code
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # Composants avancés
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.smartsymbols
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ViniTy-A
+  generator: false  # masque "Made with Material for MkDocs"
+
+# Structure de navigation — reflète celle du PDF actuel
+nav:
+  - Accueil: index.md
+  - Le concept: concept.md
+  - Voyages dimensionnels: voyages-dimensionnels.md
+  - Ton spawn: spawn.md
+  - Commandes: commandes.md
+  - Recettes custom:
+      - recettes/index.md
+      - Minerais (motif en croix): recettes/minerais.md
+      - Armures de cheval: recettes/armures-cheval.md
+      - Armures de nautile: recettes/armures-nautile.md
+      - Baies lumineuses: recettes/baies-lumineuses.md
+      - Haut fourneau: recettes/haut-fourneau.md
+      - Modèle de forge Netherite: recettes/modele-forge-netherite.md
+  - Mécaniques spéciales:
+      - mecaniques/index.md
+      - Mobs et passifs: mecaniques/mobs.md
+      - Blocs et ressources: mecaniques/blocs.md
+      - Chambres des épreuves: mecaniques/chambres-epreuves.md
+      - Disques musicaux: mecaniques/disques.md
+      - Drops spéciaux: mecaniques/drops.md
+  - Tutoriels vidéo:
+      - tutoriels/index.md
+      - Druse d'améthyste: tutoriels/druse-amethyste.md
+      - Descente Y=-64: tutoriels/descente-y-64.md
+  - Setup client: setup-client.md
+  - Stratégie d'exploration: strategie-exploration.md
+  - Vocabulaire: vocabulaire.md
+  - Roadmap: roadmap.md

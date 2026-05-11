@@ -54,32 +54,11 @@ Certains biomes sont nécessaires pour des mécaniques spécifiques :
 | Plage / désert côtier | Tortues → œufs de renifleur |
 | Désert / Badlands | Marchand ambulant à chameau |
 | Jardin pâle | Cœur de grinceur |
-| Tout biome avec herbe haute | Endermen porteurs |
-| Océan profond | Gardien ancestral → éponge |
 
-## 7. Stratégie générale par phase
 
-### Phase 1 — Survie immédiate (Day 1-3)
-- Casse les feuilles du chêne pour les pousses
-- Replante 1-2 pousses (sécurité)
-- Construis un établi + outils basiques
-- Drop dans le vide n'est pas une bonne idée → attends d'avoir un seau d'eau ou des échafaudages
+## 7. Que faire en cas de softlock
 
-### Phase 2 — Expansion (Day 4-10)
-- Pont vers la première structure (souvent le fort le plus proche)
-- Récupère les 12 cadres de portail
-- Farm tes premières ressources via mécaniques custom (sable, diamant via enclume)
-- Trade avec le marchand ambulant (1ère apparition = ~20 min)
-
-### Phase 3 — Endgame (Day 11+)
-- Active ton portail de l'End → tue le dragon → élytres
-- Capture un Blaze, conversion en Breeze, bâton de Breeze
-- Active les générateurs des épreuves
-- Challenge Conquérant de la foudre / Maîtrise du flux pour les ornements d'armure
-
-## 8. Que faire en cas de softlock
-
-Si ton chêne de spawn n'a rien drop comme pousse après ~3 tentatives complètes (chacun chêne pousse → casser toutes les feuilles), tu peux faire un `/reset` pour relancer avec une nouvelle seed.
+Si ton chêne de spawn n'a rien drop comme pousse tu peux faire un `/reset` pour relancer avec une nouvelle seed.
 
 **Cooldown** : 15 min entre 2 resets, et **confirme bien** avec `/reset confirm` dans les 30s.
 

@@ -15,14 +15,9 @@ Sur ton île, pas de lac, pas de rivière, pas d'océan. Voici la **vraie** proc
 
 ## Étape 1 — Réunir 7 lingots de fer (pour le chaudron)
 
-!!! warning "Pas de recette custom au début"
-    La recette custom de minerai de fer en croix demande **4 lingots de fer** pour produire 1 minerai. Donc impossible à utiliser comme **première source** de fer. C'est un piège logique — ne perds pas de temps là-dessus avant d'avoir déjà du stock.
+**La seule source de fer en early game** : tuer des **zombies** par **player kill** (drop rate ~3.5% par kill).
 
-**La seule source de fer en early game** : tuer des **zombies** par **player kill** (drop rate ~3.5% par kill — très bas).
-
-→ Construis une **zone de spawn nocturne** (sombre, light 0) près de ton île pour attirer les zombies, puis tue-les un par un à la main.
-
-Compte environ **30 kills** pour obtenir 7 lingots de fer.
+→ Construis une **tour à mobs pathfind** qui ne nécessite pas d'eau (voir [Ferme à mobs sans eau](ferme-mobs-sans-eau.md)) et farme les zombies jusqu'à avoir 7 lingots de fer. Avec le drop rate de 3.5%, **ça peut être long**.
 
 ## Étape 2 — Crafter le chaudron + le poser
 
@@ -34,7 +29,7 @@ F F F
 ```
 *F = lingot de fer · 7 lingots au total*
 
-Pose le chaudron **dans une zone exposée au ciel** (pas sous un toit, pas dans une cave). Sans accès direct au ciel, la pluie ne le remplit pas.
+Pose le chaudron **dans une zone exposée au ciel** (pas sous un toit). Sans accès direct au ciel, la pluie ne le remplit pas.
 
 ## Étape 3 — Attendre la pluie (long)
 

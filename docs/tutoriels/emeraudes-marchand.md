@@ -18,13 +18,6 @@ Ce tuto explique comment en générer.
 
 ## Sources d'émeraudes sur TdR
 
-| Source | Rate | Difficulté |
-|---|---|---|
-| **Trade villageois** | ⭐⭐⭐⭐⭐ | Mid (besoin de cure zombie villager d'abord) |
-| Récompense de succès TdR | ⭐⭐ | Variable |
-| Recette minerai d'émeraude custom | ⭐ | Tard (besoin de 4 émeraudes pour en générer 1-2) |
-| Trade marchand ambulant inverse | ❌ | Le marchand vend pour émeraudes, ne donne PAS d'émeraudes |
-
 **La méthode principale = villageois.** Voici comment en avoir un.
 
 ## Étape 1 — Trouver un villageois zombie
@@ -33,13 +26,13 @@ Les villageois normaux ne spawnent pas naturellement sur ton île (pas de villag
 
 ### Setup spawn zombies
 
-1. Aménage une **zone sombre** (light level 0) à côté de ton île
+1. Aménage une **zone sombre** (light level 0) à côté de ton île ou fais une ferme à mob.
 2. Les zombies spawnent la nuit dans cette zone
 3. Approche-toi → repère ceux qui ont des **vêtements de villageois** (texture verte/brune avec robe + tablier)
 
 ### Capture
 
-Construis une **petite cage en pierre** où tu pousses le zombie villageois (sans le tuer). Bouclier + blocs pour le pousser.
+Construis une **petite cage en pierre** où tu pousses le zombie villageois (sans le tuer) pour ne pas qu'il despawn fait lui prendre un item en main si il veut bien ou le plus simple met le dans un bateau.
 
 ## Étape 2 — Le soigner
 
@@ -47,7 +40,8 @@ Pour **transformer un zombie villageois en villageois normal** :
 
 ### Matériel requis
 
-- 1 **Potion de Faiblesse jetable** (recette : potion eau + champignon Nether + poudre à canon, ou troquée)
+- 1 **Potion de Faiblesse jetable** (impossible a avoir en early)
+- 1 **sorcière** qui lancera une potion de faiblesse sur vous dans certaines conditions.
 - 1 **Pomme d'or** (recette : 8 lingots d'or + 1 pomme — coûteux mais one-shot)
 
 ### Procédure
@@ -59,69 +53,43 @@ Pour **transformer un zombie villageois en villageois normal** :
 5. Au bout des 5 min : ✨ il se transforme en **villageois normal**
 
 !!! tip "Sources de potion de Faiblesse"
-    - Cracher une sorcière (drop occasionnel) — mais besoin de tuer une sorcière, donc rare
-    - Crafter : champignon Nether + bouteille d'eau dans un Établi d'alchimie → "Boring Potion", puis poudre à canon → splash
-    - Tuer un porteur de bannière de raid (parfois drop)
+    - Comme dis plus haut en early game la sorcière sera un passage douloureux mais obligatoire pour soigner vos zombies villageois.
+    Une sorcière a 25% de chances de lancer une potion de faiblesse jetable si un joueur se trouve à 3 blocs ou moins et n'a pas déjà l'effet de faiblesse. De plus, la santé du joueur doit être à 8♥♥♥♥ ou moins, ou le joueur doit avoir l'effet Poison.
 
 !!! tip "Bonus tarif"
     Si tu **soignes plusieurs fois le même villageois** (re-zombify + re-cure), ses prix de trade baissent jusqu'au minimum. Très rentable.
 
 ## Étape 3 — Donner un métier au villageois
 
-Place un **bloc de profession** à côté du villageois pendant qu'il est en mode chômeur (pas de symbole de métier visible).
+Place un **bloc de profession** à côté du villageois.
 
-| Bloc | Profession | Trade utile |
-|---|---|---|
-| Composteur | Fermier | Blé → émeraude (24 blé / 1 émeraude tier 1) |
-| Table à carte | Cartographe | Papier → émeraude |
-| Métier à tisser | Berger | Laine → émeraude |
-| Tonneau | Pêcheur | Morue/saumon cru → émeraude |
-| Fournaise | Boucher | Poulet/mouton/lapin cru → émeraude |
-| Plateau de stonecutter | Maçon | Pierre → émeraude |
-| Fletching table | Archer | Silex → émeraude |
-| Établi d'alchimie | Sorcier | Verre → émeraude |
-| Établi de forge | Armurier | Charbon → émeraude |
-| Établi d'enchantement | Bibliothécaire | Papier → émeraude + livres |
+## Étape 4 — Les métiers le plus accessible : Fermier 
 
-## Étape 4 — Le métier le plus accessible : Fermier
+**Bloc** : Composteur (recette : 7 demi-dalles en bois) + 
 
-**Bloc** : Composteur (recette : 7 demi-dalles en bois)
+**Trade le plus rentable au début** 
+Au début le plus simple sera très certainement les trades de fermier car une des rares tables que l'on peut fabriquer ainsi qu'avoir les ressources.
+Un des métiers les plus importants sera un des 3 qui nous permettra d'avoir un seau de lave. Mais celui ci rapportera pas ou peu d'émeraude (une ferme à fer résoudra le problème)
 
-**Trade le plus rentable au début** : **24 blé → 1 émeraude (tier 1)**
 
-### Setup farm blé
-
-1. Plante du blé sur la terre de ton île (poudre d'os pour faire pousser vite)
-2. Récolte → re-plante les graines (tu obtiens des graines en cassant l'herbe haute si tu en as, ou via marchand ambulant)
-3. Stocke le blé jusqu'à avoir 24 minimum → trade avec le Fermier
-
-Avec ~3-4 récoltes de blé tu as déjà ta première émeraude.
 
 ## Étape 5 — Acheter chez le marchand ambulant
 
 Une fois que tu as accumulé quelques émeraudes :
 
-Le marchand ambulant apparaît **toutes les ~20-30 min** par cycle (indépendant par joueur). Il propose ~6 trades à 1 émeraude chacun, choisis dans un pool de :
+Le marchand ambulant apparaît de façon aléatoire plus la zone de spawn est grande plus il a de chance de spawn (indépendant par joueur). Il propose ~6 trades à 1 émeraude chacun, choisis dans un pool de :
 
 - **Pousses d'arbre** (érable, cerisier, mangrove...)
 - **Coraux** (8 blocs/troc)
 - **Fleurs hautes** (tournesol, lilas, rosier, pivoine — voir [Mécanique](../mecaniques/mobs.md#fleurs-hautes-via-marchand-ambulant))
-- **Cactus**, **bambou**, **mousse**, **azalée**...
-- **Œufs de tortue** (rare)
+- **Cactus**, **mousse**, **azalée**...
 
 ## Stratégie recommandée
 
-1. Phase 1 — Setup farm zombies + capture zombie villageois (Day 2-3)
-2. Phase 2 — Get 1 pomme d'or + 1 potion Faiblesse jetable (long farm)
+1. Phase 1 — Setup farm zombies + capture zombie villageois 
+2. Phase 2 — Obtenir les pommes dorées + Faire en sorte qu'une sorcière jette un potion de faiblesse sur les zombies villageois
 3. Phase 3 — Cure → Fermier → Farm blé → 1ère émeraude
-4. Phase 4 — Trade marchand ambulant régulièrement, stack émeraudes
-
-## Astuces
-
-- **Plusieurs villageois** : aie au moins 3-4 villageois avec différents métiers pour diversifier tes trades
-- **Re-cure pour prix réduits** : zombify + re-cure le même villageois 2-3 fois pour les prix minimum
-- **Lié à un métier** : une fois qu'un villageois a tradé une fois, son métier est **verrouillé** — ne pas casser son bloc de métier avant de re-rouler ses trades
-- **Re-roll trades** : si tu n'aimes pas les trades d'un villageois, casse + replace son bloc de métier (avant le premier trade) → nouveau pool
+4. Phase 4 — Trade marchand ambulant.
 
 ## Liens connexes
 

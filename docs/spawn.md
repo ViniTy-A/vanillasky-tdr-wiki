@@ -20,7 +20,7 @@ Un **chêne de 4 blocs de tronc** pousse sur la terre centrale, avec une canopé
 
 ## Position de spawn
 
-Tu apparais à **(0.5, 101, -2.5)**, deux blocs au nord du tronc, face au sud (en direction du chêne).
+Tu apparais à **(0.5, 65, -2.5)**, deux blocs au nord du tronc, face au sud (en direction du chêne). La plateforme elle-même est à **Y=64**.
 
 !!! warning "Attention au vide"
     Ne saute pas de l'île sans moyen de remonter — tu tombes dans le vide jusqu'au vide de destruction (Y = -64).

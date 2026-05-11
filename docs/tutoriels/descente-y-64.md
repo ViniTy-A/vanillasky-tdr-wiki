@@ -1,6 +1,6 @@
 # Tuto — Descendre à Y=-64 sans seau d'eau
 
-Quand tu débutes sur ton île à Y=101, tu n'as pas tout de suite un seau d'eau pour faire un bucket-MLG en bas. Voici plusieurs techniques pour descendre en sécurité.
+Quand tu débutes sur ton île à Y=64, tu n'as pas tout de suite un seau d'eau pour faire un bucket-MLG en bas. Voici plusieurs techniques pour descendre en sécurité jusqu'à Y=-64 (128 blocs en dessous).
 
 !!! info "Vidéo à venir"
     Le tuto vidéo sera ajouté ici dès qu'enregistré.
@@ -30,7 +30,7 @@ Quand tu débutes sur ton île à Y=101, tu n'as pas tout de suite un seau d'eau
 3. Avance d'un demi-bloc, place un autre bloc sous tes pieds
 4. Répète jusqu'en bas
 
-**Temps** : ~5 min de Y=101 à Y=-64.
+**Temps** : ~4 min de Y=64 à Y=-64.
 
 **Inconvénient** : très chronophage si tu vas vraiment loin.
 
@@ -46,7 +46,7 @@ Quand tu débutes sur ton île à Y=101, tu n'as pas tout de suite un seau d'eau
 
 Les **balles de foin** annulent **80% des dégâts de chute** quand tu atterris dessus.
 
-Pour atterrir à Y=-64 depuis Y=101 = ~165 blocs de chute = ~165 dégâts vanilla → avec 80% absorbés = ~33 dégâts. **Tu meurs encore**.
+Pour atterrir à Y=-64 depuis Y=64 = 128 blocs de chute = ~125 dégâts vanilla → avec 80% absorbés = ~25 dégâts. **Tu meurs encore**.
 
 Solution : empile **2+ couches de balles de foin**. Au-delà de la première, l'effet se cumule de manière étrange en Java, mais souvent ça marche.
 

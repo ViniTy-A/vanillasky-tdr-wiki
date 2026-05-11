@@ -112,6 +112,5 @@ C'est viable comme alternative à long terme, mais pas pour le **premier** seau.
 
 ## Liens connexes
 
-- [Survie premiers jours](survie-premiers-jours.md)
 - [Recette minerais (fer)](../recettes/minerais.md)
 - [Mécanique : Seau de lave via Héros du village](../mecaniques/mobs.md#seau-de-lave-via-heros-du-village)

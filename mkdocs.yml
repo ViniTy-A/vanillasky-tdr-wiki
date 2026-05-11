@@ -133,7 +133,6 @@ nav:
   - Tutoriels vidéo:
       - tutoriels/index.md
       - Premiers pas:
-          - Survie premiers jours: tutoriels/survie-premiers-jours.md
           - Descente Y=-64: tutoriels/descente-y-64.md
       - Ressources de base:
           - Premier seau d'eau: tutoriels/premier-seau-eau.md

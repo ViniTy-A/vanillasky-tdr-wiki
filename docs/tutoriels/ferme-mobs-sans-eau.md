@@ -172,6 +172,5 @@ Pas besoin d'eau du tout pour ce setup.
 
 ## Liens connexes
 
-- [Survie premiers jours](survie-premiers-jours.md)
 - [Premier seau d'eau](premier-seau-eau.md)
 - [Comment avoir de l'or](comment-avoir-or.md)

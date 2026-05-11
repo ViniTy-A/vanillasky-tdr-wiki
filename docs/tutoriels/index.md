@@ -11,15 +11,14 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 <div class="grid cards" markdown>
 
--   :material-flag-checkered: **[Survie premiers jours](survie-premiers-jours.md)**
-
-    Que faire en arrivant sur ton île ? Casser le chêne, garder les pousses, premier établi, poudre d'os.
-
 -   :material-arrow-down-thick: **[Descente à Y=-64 sans seau d'eau](descente-y-64.md)**
 
-    Toutes les techniques pour descendre dans le vide en sécurité (pilier, échafaudage, foin, chute lente).
+    Toutes les techniques pour descendre dans le vide en sécurité depuis ton île à Y=64 (pilier, échafaudage, foin, chute lente).
 
 </div>
+
+!!! info "Pas de tuto de survie générale"
+    Les **succès in-game** servent de ligne directrice naturelle pour les premiers jours (`/recompense` te délivre les rewards). Pas besoin d'un guide redondant.
 
 ## 💧 Ressources de base
 

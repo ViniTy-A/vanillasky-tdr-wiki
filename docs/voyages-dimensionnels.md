@@ -39,7 +39,7 @@ Tu atterris sur la **plateforme d'obsidienne de spawn** dans **ton End**, avec t
 Le **portail de sortie** (au centre, à Y=60, après avoir tué le dragon) te ramène dans ton Overworld :
 
 - Si tu as un **lit** dans ton Overworld → tu reviens à ton lit
-- Sinon → tu reviens à **(0.5, 101, -2.5)**, ton île de départ
+- Sinon → tu reviens à **(0.5, 65, -2.5)**, ton île de départ (Y=64 pour la plateforme)
 
 ### Portails de l'End (gateways)
 

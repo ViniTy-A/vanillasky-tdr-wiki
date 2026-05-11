@@ -37,7 +37,7 @@ Le principe exploite le mode **allongé** (prone) qu'on prend automatiquement qu
 
 1. Mets-toi **sur la Trappe A** avec la **Trappe B ouverte** au-dessus
 2. **Ferme la Trappe B** → tu te retrouves **allongé** (prone)
-3. **Vise la Trappe C** et fais **shift+clic dessus avec un BLOC** en main → le bloc se pose **1 bloc plus bas** que la trappe ciblée
+3. **Vise le DESSOUS de la Trappe C** et fais **shift+clic dessus avec un BLOC** en main → le bloc se pose **1 bloc plus bas** que la trappe ciblée
 4. Tu as maintenant un nouveau « step » 1 bloc plus bas. Replace ta Trappe A / Trappe B / Trappe C autour de ce nouveau bloc et recommence
 
 ### Boucle de descente

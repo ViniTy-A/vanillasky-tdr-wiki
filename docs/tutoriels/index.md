@@ -34,7 +34,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-emoticon: **[Il me faut des émeraudes pour le marchand ambulant](emeraudes-marchand.md)**
 
-    Cure de zombie villageois → farm villageois → trade Fermier 24 blé / 1 émeraude.
+    Cure de zombie villageois.
 
 -   :material-skull-outline: **[Ferme à mobs sans water stream](ferme-mobs-sans-eau.md)**
 

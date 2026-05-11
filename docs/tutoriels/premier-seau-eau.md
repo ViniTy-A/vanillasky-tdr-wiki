@@ -54,14 +54,6 @@ F . F
 
 Quand le chaudron est plein, clic-droit avec le **seau vide** → seau d'eau. 🎉
 
-## ⚡ Méthode alternative : fioles de sorcières
-
-Si la pluie traîne et que tu trouves des sorcières (drop occasionnel) :
-
-**Les sorcières drop des fioles** (glass bottles) à la mort. Tu peux utiliser ces fioles pour collecter l'eau de pluie **au sol** (ou dans une source d'eau si tu en as une).
-
-→ Moins efficace que le chaudron pour le **premier** seau d'eau, mais utile si tu as la chance de tomber sur une sorcière tôt.
-
 ## Étape 6 — Une fois ta première source d'eau obtenue : eau infinie via fioles
 
 C'est le **trick essentiel** pour ne plus jamais manquer d'eau.

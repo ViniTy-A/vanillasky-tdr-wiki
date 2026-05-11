@@ -12,6 +12,8 @@ copyright: Vanilla Sky TdR — « Tout de Rien »
 theme:
   name: material
   language: fr
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     # Thème clair
     - media: "(prefers-color-scheme: light)"
@@ -130,8 +132,21 @@ nav:
       - Drops spéciaux: mecaniques/drops.md
   - Tutoriels vidéo:
       - tutoriels/index.md
-      - Druse d'améthyste: tutoriels/druse-amethyste.md
-      - Descente Y=-64: tutoriels/descente-y-64.md
+      - Pour débutants:
+          - Descente Y=-64: tutoriels/descente-y-64.md
+      - Mécaniques de base:
+          - Druse d'améthyste: tutoriels/druse-amethyste.md
+          - Blaze → Breeze: tutoriels/blaze-vers-breeze.md
+          - Cœur de grinceur: tutoriels/coeur-grinceur.md
+      - Chambres des épreuves:
+          - Activation générateur: tutoriels/activation-generateur-epreuves.md
+          - Conquérant de la foudre: tutoriels/conquerant-foudre.md
+          - Maîtrise du flux: tutoriels/maitrise-flux.md
+      - Farms et endgame:
+          - Farm creeper-disques: tutoriels/farm-creeper-disques.md
+          - Farm Warden: tutoriels/farm-warden.md
+          - Farm de coraux: tutoriels/farm-corail.md
+          - Œuf de renifleur: tutoriels/oeuf-renifleur.md
   - Setup client: setup-client.md
   - Stratégie d'exploration: strategie-exploration.md
   - Vocabulaire: vocabulaire.md

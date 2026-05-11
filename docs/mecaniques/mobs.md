@@ -12,7 +12,7 @@ Gagne un raid pour obtenir l'effet **Héros du village**. Pendant que l'effet es
 - **Forgeron d'armes**
 - **Forgeron d'outils**
 
-Aucune autre profession ne donne de lave. Reste à proximité de tes villageois et soigne-les si besoin pour ne pas perdre l'effet.
+Aucune autre profession ne donne de lave. L'effet Héros dure **60-80 minutes** (durée fixe selon la difficulté) — reste à proximité de tes villageois pendant ce temps pour maximiser le nombre de gifts roll.
 
 ## Tête de dragon (via creeper chargé)
 

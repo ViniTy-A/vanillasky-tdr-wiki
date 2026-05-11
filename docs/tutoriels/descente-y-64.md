@@ -1,87 +1,71 @@
 # Tuto — Descendre à Y=-64 sans seau d'eau
 
-Quand tu débutes sur ton île à Y=64, tu n'as pas tout de suite un seau d'eau pour faire un bucket-MLG en bas. Voici plusieurs techniques pour descendre en sécurité jusqu'à Y=-64 (128 blocs en dessous).
+Quand tu débutes sur ton île à Y=64, tu n'as pas tout de suite un seau d'eau pour faire un bucket-MLG en bas. **Une seule technique est viable en early game** : la descente par trappes.
 
 !!! info "Vidéo à venir"
-    Le tuto vidéo sera ajouté ici dès qu'enregistré.
+    Tuto vidéo en cours d'enregistrement par l'admin du serveur.
 
-<!-- Bloc à remplir avec ton iframe YouTube une fois la vidéo prête :
-<iframe
-  width="100%"
-  height="500"
+<!--
+<iframe width="100%" height="500"
   src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Descente à Y=-64 — Tuto Vanilla Sky TdR"
-  frameborder="0"
+  title="Descente à Y=-64 par trappes — Vanilla Sky TdR" frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+  allowfullscreen></iframe>
 -->
 
 ## Pourquoi descendre ?
 
-- **Spawn rate de mobs ×2 ou plus** — plus tu es bas dans le monde, plus les mobs hostiles spawnent souvent et en plus grand nombre (la mob cap par chunk se charge davantage dans les couches profondes vu que tu y monopolises la zone de spawn)
-- **Pas de phantoms** — sous Y=64, l'absence d'accès direct au ciel empêche les phantoms de spawner au-dessus de toi. Tu peux dormir tranquille sans set up de spleef anti-phantom
-- **Light level 0 facile** — pas de soleil, pas de luminescence ambiante. Tes plateformes de spawn sont sombres par défaut sans torch management
+- **Spawn rate de mobs ×2 ou plus** — plus tu es bas dans le monde, plus les mobs hostiles spawnent souvent et en plus grand nombre
+- **Pas de phantoms** — sous Y=64, l'absence d'accès direct au ciel empêche les phantoms de spawner au-dessus de toi
+- **Light level 0 facile** — pas de soleil, pas de luminescence ambiante. Tes plateformes de spawn sont sombres par défaut
 
-## Technique 1 — Pilier de blocs (le plus simple)
+## Matériel requis
 
-1. Mets-toi en mode descente lente (shift)
-2. Place un bloc sous tes pieds en regardant vers le bas
-3. Avance d'un demi-bloc, place un autre bloc sous tes pieds
-4. Répète jusqu'en bas
+- **~130 trappes** (n'importe quel bois — chêne suffit)
+- **~130 blocs** (pierre, terre, n'importe quoi de solide pour les placements vers le bas)
 
-**Temps** : ~4 min de Y=64 à Y=-64.
+## La technique — Descente par trappes
 
-**Inconvénient** : très chronophage si tu vas vraiment loin.
+Le principe exploite le mode **allongé** (prone) qu'on prend automatiquement quand on est coincé sous une trappe fermée dans un espace d'1 bloc de haut. Allongé, ta reach permet de placer un bloc **1 bloc plus bas** que ta position, en visant une trappe voisine.
 
-## Technique 2 — Chute contrôlée avec lit
+### Setup initial
 
-1. Place un **lit** sur la surface où tu veux atterrir (besoin de 3 laine + 3 bois)
-2. Saute du haut, la chute sur un lit annule **50% des dégâts de chute** *(faux pour TdR — clarification suit)*
+1. **Trappe A** : place une trappe **dans le vide**, attachée sur le **bas d'un bloc** de ta plateforme (la trappe pend vers le vide)
+2. **Trappe B** : fais **shift+clic-droit sur la Trappe A** avec une trappe en main → ça pose une 2e trappe **par-dessus** la première
+3. **Trappe C** : pose une trappe sur **le dessus d'un autre bloc** voisin, en ayant **le vide en dessous** de cette trappe
 
-!!! warning "Pas en survie ici"
-    Cette technique fonctionne en Bedrock, mais en **Java Edition** un lit n'annule pas les dégâts de chute. **Ne pas utiliser** pour de grandes hauteurs.
+### Procédure de descente (à répéter)
 
-## Technique 3 — Foin (hay bale)
+1. Mets-toi **sur la Trappe A** avec la **Trappe B ouverte** au-dessus
+2. **Ferme la Trappe B** → tu te retrouves **allongé** (prone)
+3. **Vise la Trappe C** et fais **shift+clic dessus avec un BLOC** en main → le bloc se pose **1 bloc plus bas** que la trappe ciblée
+4. Tu as maintenant un nouveau « step » 1 bloc plus bas. Replace ta Trappe A / Trappe B / Trappe C autour de ce nouveau bloc et recommence
 
-Les **balles de foin** annulent **80% des dégâts de chute** quand tu atterris dessus.
+### Boucle de descente
 
-Pour atterrir à Y=-64 depuis Y=64 = 128 blocs de chute = ~125 dégâts vanilla → avec 80% absorbés = ~25 dégâts. **Tu meurs encore**.
+À chaque itération, tu descends d'**1 bloc**. Pour aller de Y=64 à Y=-64, compte environ **128 itérations** soit **10-15 min** de descente.
 
-Solution : empile **2+ couches de balles de foin**. Au-delà de la première, l'effet se cumule de manière étrange en Java, mais souvent ça marche.
+!!! tip "Astuce"
+    Garde toujours **plusieurs piles** dans ton hotbar : trappes en main 1, blocs en main 2. Switch rapide entre les deux pour optimiser le rythme.
 
-## Technique 4 — Effet Chute lente
+!!! warning "Concentration"
+    Si tu rates un shift+clic et que tu casses ta trappe support, tu **tombes** dans le vide jusqu'à la mort à Y=-64. Avance prudemment, sauvegarde ta progression régulièrement (le sleep si possible).
 
-Si tu as accès à des potions de **Chute lente** (drop possible des phantoms en zone ouverte) :
+## Élytres (endgame seulement)
 
-1. Bois ou applique une potion de Chute lente (durée 1m30s)
-2. Tu tombes à vitesse réduite, **plus de dégâts de chute**
-3. Saute du haut, atterris peinard
+Une fois que tu as les **élytres** (via [Mécanique : Élytres](../mecaniques/mobs.md#elytres-via-endermite)), tu n'as plus besoin de cette technique : tu plane jusqu'en bas et tu stall horizontal au dernier moment.
 
-**Inconvénient** : nécessite d'avoir déjà du matériel.
+Mais avant les élytres, la descente par trappes reste **la seule méthode early-game viable**.
 
-## Technique 5 — Échafaudage
+## Astuces post-descente
 
-Les **échafaudages** (scaffolding) permettent de monter et descendre rapidement (touche shift en bas pour descendre 1 bloc à la fois).
+Une fois arrivé à Y=-64 :
 
-Recette : 6 bambous + 1 ficelle → 6 échafaudages.
+- **Construis ton spawn pad** — plateforme 16×16, light 0, drop chute de 24 blocs pour kill 1-shot (voir [Ferme à mobs sans eau](ferme-mobs-sans-eau.md))
+- **Garde un retour** — construis un escalier ou ascenseur pour remonter facilement
+- **Bedrock break/duping** ❌ — bug exploit non autorisé sur TdR, pas la peine d'essayer
 
-Le bambou se trouve dans les jungles ou via marchand ambulant (saplings vendus).
+## Liens connexes
 
-**Avantage** : très rapide à descendre/monter, peu cher en ressources.
-
-## Technique 6 — Élytres (endgame)
-
-Une fois que tu as les élytres ([via endermite](../mecaniques/mobs.md#elytres-via-endermite)), descendre est trivial : tu plane jusqu'en bas.
-
-Pour atterrir sans dégâts : pique un peu vers le sol au dernier moment puis stall horizontal pour ralentir.
-
-## Technique recommandée selon ton stade
-
-| Stade | Technique recommandée |
-|---|---|
-| Tout début (rien que pousses + chêne) | Pilier de blocs |
-| Bambou récupéré | Échafaudage |
-| Élevage + bois | Pilier ou échafaudage |
-| Mid-game (potions, phantoms farmables) | Potion de Chute lente |
-| Endgame | Élytres |
+- [Ferme à mobs sans water stream](ferme-mobs-sans-eau.md) — ce que tu construis une fois en bas
+- [Setup client (Mini-HUD)](../setup-client.md) — pour voir les BB de structures profondes (ancienne cité notamment)

@@ -134,20 +134,20 @@ nav:
       - tutoriels/index.md
       - Premiers pas:
           - Descente Y=-64: tutoriels/descente-y-64.md
-      - Ressources de base:
-          - Premier seau d'eau: tutoriels/premier-seau-eau.md
+          - Comment avoir de l'eau: tutoriels/premier-seau-eau.md
+          - Ferme à mob sans eau: tutoriels/ferme-mobs-sans-eau.md
           - Comment avoir de l'or: tutoriels/comment-avoir-or.md
-          - Émeraudes pour marchand ambulant: tutoriels/emeraudes-marchand.md
-          - Ferme à mobs sans eau: tutoriels/ferme-mobs-sans-eau.md
+          - Comment avoir des émeraudes: tutoriels/emeraudes-marchand.md
       - Mécaniques visuelles complexes:
           - Druse d'améthyste: tutoriels/druse-amethyste.md
           - Œuf de renifleur: tutoriels/oeuf-renifleur.md
-      - Chambres des épreuves:
-          - Conquérant de la foudre: tutoriels/conquerant-foudre.md
-          - Maîtrise du flux: tutoriels/maitrise-flux.md
-      - Farms avancées:
-          - Farm Warden: tutoriels/farm-warden.md
+      - Mécaniques Avancées:
+          - Obtention de Swift Sneak: tutoriels/obtention-swift-sneak.md
           - Farm de coraux: tutoriels/farm-corail.md
+      - Obtention Élytres:
+          - tutoriels/obtention-elytres.md
+      - Obtention Shulker box:
+          - tutoriels/obtention-shulker-box.md
       - À compléter:
           - Tuto 1: tutoriels/tuto-1.md
           - Tuto 2: tutoriels/tuto-2.md

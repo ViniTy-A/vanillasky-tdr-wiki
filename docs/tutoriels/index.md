@@ -5,7 +5,7 @@ Cette section regroupe les tutos pas-à-pas pour les **vrais problèmes de joueu
 Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles uniquement avec le lien du wiki).
 
 !!! info "État actuel"
-    Tous les **textes des tutos** sont déjà rédigés. Les **vidéos** sont en cours d'enregistrement et seront intégrées au fur et à mesure. Le contenu écrit est utilisable tel quel en attendant.
+    Les **textes** sont rédigés ou en cours. Les **vidéos** seront intégrées au fur et à mesure.
 
 ## 🌱 Premiers pas
 
@@ -15,32 +15,26 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
     Comment construire ta voie de descente bloc par bloc grâce à la technique des trappes (seule méthode viable en early game).
 
-</div>
-
-!!! info "Pas de tuto de survie générale"
-    Les **succès in-game** servent de ligne directrice naturelle pour les premiers jours (`/recompense` te délivre les rewards). Pas besoin d'un guide redondant.
-
-## 💧 Ressources de base
-
-<div class="grid cards" markdown>
-
--   :material-water: **[Comment avoir un premier seau d'eau](premier-seau-eau.md)**
+-   :material-water: **[Comment avoir de l'eau](premier-seau-eau.md)**
 
     Chaudron + pluie.
+
+-   :material-skull-outline: **[Ferme à mob sans eau](ferme-mobs-sans-eau.md)**
+
+    Ta toute première ferme à mob quand tu n'as pas d'eau.
 
 -   :material-gold: **[Comment avoir de l'or](comment-avoir-or.md)**
 
     Il te faudra sacrifier tes cochons.
 
--   :material-emoticon: **[Il me faut des émeraudes pour le marchand ambulant](emeraudes-marchand.md)**
+-   :material-emoticon: **[Comment avoir des émeraudes](emeraudes-marchand.md)**
 
     Cure de zombie villageois.
 
--   :material-skull-outline: **[Ferme à mobs sans water stream](ferme-mobs-sans-eau.md)**
-
-    Ta toutes première ferme à mob quand tu n'as pas d'eau.
-
 </div>
+
+!!! info "Pas de tuto de survie générale"
+    Les **succès in-game** servent de ligne directrice naturelle pour les premiers jours (`/recompense` te délivre les rewards). Pas besoin d'un guide redondant.
 
 ## 🔧 Mécaniques visuelles complexes
 
@@ -56,27 +50,13 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 </div>
 
-## ⚔️ Chambres des épreuves
+## 🏗️ Mécaniques avancées
 
 <div class="grid cards" markdown>
 
--   :material-lightning-bolt: **[Conquérant de la foudre (Tier 3)](conquerant-foudre.md)**
+-   :material-shoe-print: **[Obtention de Swift Sneak](obtention-swift-sneak.md)**
 
-    Foudroyer 5 mobs spécifiques avec trident Canalisation → Ornement des boulons.
-
--   :material-trident: **[Maîtrise du flux (Tier 3)](maitrise-flux.md)**
-
-    Trident Impulsion + Pouvoir du conduit → Ornement des tourbillons. Inclut la construction du conduit.
-
-</div>
-
-## 🏗️ Farms avancées
-
-<div class="grid cards" markdown>
-
--   :material-skull-scan: **[Farm Warden (ancienne cité)](farm-warden.md)**
-
-    Utiliser le hurleur sculk pré-placé pour spawn et farm le Warden — éclat d'écho, catalyseur sculk.
+    Comment obtenir l'enchantement Furtivité rapide sur TdR (page à compléter).
 
 -   :material-flower-pollen: **[Farm de coraux automatique](farm-corail.md)**
 
@@ -84,10 +64,44 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 </div>
 
-## 💡 Idées en attente
+## 🪶 Obtention Élytres
 
-Si tu veux un tuto sur un sujet précis, demande sur le Discord ou ouvre une issue [GitHub](https://github.com/ViniTy-A/vanillasky-tdr-wiki/issues).
+<div class="grid cards" markdown>
 
-Idées en stock :
-- [ ] Élytres via endermite (chute lente + lévitation)
-- [ ] Shulker renouvelable (respawn dragon)
+-   :material-feather: **[Obtention des Élytres](obtention-elytres.md)**
+
+    Comment obtenir une paire d'élytres sur TdR (page à compléter).
+
+</div>
+
+## 📦 Obtention Shulker box
+
+<div class="grid cards" markdown>
+
+-   :material-treasure-chest: **[Obtention de Shulker Box](obtention-shulker-box.md)**
+
+    Comment obtenir des shulker boxes sur TdR (page à compléter).
+
+</div>
+
+## 📝 À compléter
+
+<div class="grid cards" markdown>
+
+-   :material-file-document-edit-outline: **[Tuto 1](tuto-1.md)**
+
+    Slot libre.
+
+-   :material-file-document-edit-outline: **[Tuto 2](tuto-2.md)**
+
+    Slot libre.
+
+-   :material-file-document-edit-outline: **[Tuto 3](tuto-3.md)**
+
+    Slot libre.
+
+-   :material-file-document-edit-outline: **[Tuto 4](tuto-4.md)**
+
+    Slot libre.
+
+</div>

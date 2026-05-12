@@ -1,4 +1,4 @@
-# Tuto — Obtenir un premier seau d'eau
+# Tuto — Comment avoir de l'eau
 
 Sur ton île, pas de lac, pas de rivière, pas d'océan. Voici la **vraie** procédure pour avoir ton premier seau d'eau sur TdR.
 

@@ -1,4 +1,4 @@
-# Tuto — Il me faut des émeraudes pour le marchand ambulant
+# Tuto — Comment avoir des émeraudes
 
 Le **marchand ambulant** vend des items précieux (pousses d'arbre, coraux, fleurs hautes, pousse de cerisier...) en échange de... **émeraudes**. Sans émeraudes, tu peux pas trader. Mais l'émeraude ne se trouve pas naturellement sur ton île.
 

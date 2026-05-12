@@ -23,9 +23,6 @@ Quand tu utilises une **table d'enchantement** avec **un Warden à ≤12 blocs**
 - Compatible avec : **livres** et **jambières** (cuir, mailles, fer, or, diamant, Netherite)
 - Si le coût rollé tombe dans la plage de niveau, swift_sneak peut être sélectionné comme un des 3 enchants proposés
 
-!!! info "Différence avec CSA-Reborn"
-    CSA utilise 8 blocs de distance, TdR utilise **12 blocs** (un poil plus permissif vu la taille du Warden).
-
 ## Coûts par niveau
 
 | Niveau | minCost | maxCost |
@@ -44,8 +41,8 @@ Quand tu utilises une **table d'enchantement** avec **un Warden à ≤12 blocs**
 - **1 Warden** à proximité (voir [Mécanique : Hurleur sculk pré-placé](../mecaniques/drops.md#hurleur-sculk-can_summon-pre-place))
 - **1 table d'enchantement** (3 obsidienne + 2 diamants + 1 livre)
 - **15 étagères** (bookshelves) autour de la table pour avoir des enchantements niveau 30
-- **30 niveaux d'XP** par tentative d'enchantement
-- **1 lapis-lazuli** par tentative
+- **30 niveaux d'XP** max par tentative d'enchantement
+- **3 lapis-lazuli** max par tentative
 - **Livres** ou **jambières** à enchanter
 - Équipement de combat solide (Netherite Protection IV recommandé pour survivre près du Warden)
 

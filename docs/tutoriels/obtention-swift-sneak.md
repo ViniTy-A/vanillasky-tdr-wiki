@@ -91,7 +91,7 @@ Le niveau 3 ne sort jamais directement de la table (capé à 30, minCost III = 3
 
 - **Anti-Warden** : place ta plateforme et reste accroupi quand tu approches. Le Warden détecte les vibrations + les odeurs.
 - **Multi-essais** : prépare plein de livres + lapis avant de spawn le Warden, comme ça tu n'as pas à re-spawn pour plusieurs essais
-- **Warden contre cri sonique** : si tu es à 5 blocs et au-dessus, le Warden ne peut pas te toucher en mêlée mais il peut te frapper avec son cri sonique.
+- **Warden contre sonic boom** : à 5 blocs et au-dessus, le Warden ne peut pas te toucher en mêlée mais il déclenchera son **sonic boom** à la place. Le sonic boom **traverse tous les blocs** (y compris l'obsidienne) et **ne nécessite pas de ligne de vue**. La seule vraie défense est de rester **hors de la portée de ~20 blocs** du Warden quand tu n'enchante pas — par exemple en restant en hauteur loin de lui et en redescendant uniquement pour les ~5s d'enchant.
 
 ## Bonus — Avantages de Swift Sneak
 

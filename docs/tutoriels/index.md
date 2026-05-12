@@ -58,29 +58,17 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
     Comment obtenir l'enchantement Furtivité rapide sur TdR (page à compléter).
 
--   :material-flower-pollen: **[Farm de coraux automatique](farm-corail.md)**
-
-    Construire un farm 5×5×5 avec algues séchées pour générer des blocs de corail en boucle (→ source de sable).
-
-</div>
-
-## 🪶 Obtention Élytres
-
-<div class="grid cards" markdown>
-
 -   :material-feather: **[Obtention des Élytres](obtention-elytres.md)**
 
     Comment obtenir une paire d'élytres sur TdR (page à compléter).
 
-</div>
-
-## 📦 Obtention Shulker box
-
-<div class="grid cards" markdown>
-
 -   :material-treasure-chest: **[Obtention de Shulker Box](obtention-shulker-box.md)**
 
     Comment obtenir des shulker boxes sur TdR (page à compléter).
+
+-   :material-flower-pollen: **[Farm de coraux automatique](farm-corail.md)**
+
+    Construire un farm 5×5×5 avec algues séchées pour générer des blocs de corail en boucle (→ source de sable).
 
 </div>
 

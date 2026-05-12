@@ -143,11 +143,9 @@ nav:
           - Œuf de renifleur: tutoriels/oeuf-renifleur.md
       - Mécaniques Avancées:
           - Obtention de Swift Sneak: tutoriels/obtention-swift-sneak.md
+          - Obtention Élytres: tutoriels/obtention-elytres.md
+          - Obtention Shulker box: tutoriels/obtention-shulker-box.md
           - Farm de coraux: tutoriels/farm-corail.md
-      - Obtention Élytres:
-          - tutoriels/obtention-elytres.md
-      - Obtention Shulker box:
-          - tutoriels/obtention-shulker-box.md
       - À compléter:
           - Tuto 1: tutoriels/tuto-1.md
           - Tuto 2: tutoriels/tuto-2.md

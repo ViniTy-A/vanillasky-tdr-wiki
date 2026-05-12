@@ -45,32 +45,31 @@ C'est le **bloquant principal** : tu as besoin d'un shulker pour que ses project
 
 Pas d'End city sur TdR → tu obtiens ton premier shulker via la mécanique de re-respawn du Dragon de l'End. Voir le [tuto Shulker Box](obtention-shulker-box.md).
 
-→ Une fois ton 1er shulker en main, transporte-le près de ta cage d'endermite (cube d'eau + seau pour le déplacer).
+→ Une fois ton 1er shulker en main, transporte-le près de ta cage d'endermite.
 
 ## Étape 3 — Préparer la potion jetable de Chute lente
 
 Recette vanilla MC :
 
-1. **Membrane de phantom** : tue un phantom (rare en survie, ou drop occasionnel de cadeau de chat — voir [Mécanique : Pomme d'or enchantée](../mecaniques/mobs.md#pomme-dor-enchantee-via-chat))
-2. **Potion brute** (Awkward potion) : verrue du Nether + bouteille d'eau dans un alambic
-3. **Potion de Chute lente** : ajoute membrane de phantom à la potion brute
-4. **Potion jetable** : ajoute poudre à canon à la potion de Chute lente
+1. **Membrane de phantom** : tue un phantom (plutôt commun a partir de y64 après plusieurs jour sans dormir, ou drop occasionnel de cadeau de chat — voir [Mécanique : Pomme d'or enchantée](../mecaniques/mobs.md#pomme-dor-enchantee-via-chat))
+2. **Potion étrange** (Awkward potion) : verrue du Nether + bouteille d'eau dans un alambic
+3. **Potion de Chute lente** : ajoute une membrane de phantom à la potion brute
+4. **Potion jetable** : ajoute une poudre à canon à la potion de Chute lente
+5. **Potion jetable Persistante** : ajoute une poudre de redstone pour faire durer l'effet plus longtemps.
 
-Total : 1 verrue + 1 membrane + 1 poudre à canon + 1 bouteille d'eau.
+Total : 1 verrue + 1 membrane + 1 poudre à canon + 1 bouteille d'eau (+1 poudre de redstone pour la rendre persistante et la faire durée 4 min au lieu de 1m30).
 
 ## Étape 4 — La séquence de tuerie
 
-1. Place l'**endermite** au centre de ta cage
-2. Laisse le **shulker** la voir → il tire un projectile homing → l'endermite reçoit **Lévitation 10 secondes**
-3. Pendant ces 10 secondes, **lance ta potion jetable de Chute lente sur elle**
+1. Place l'**endermite** au centre de ta cage (ajoute y un plafond ca te facilitera surement la vie)
+2. Laisse le **shulker** te voir → il tire un projectile → Tu t'alignes de façon a ce que le projetectile touche l'endermite et pas toi → l'endermite reçoit **Lévitation 10 secondes**
+3. Pendant ces 10 secondes, **lance ta potion jetable de Chute lente sur elle** (tu peux aussi le faire avant comme celle-ci dure 4 min ca te laisse le temps)
 4. L'endermite a maintenant **les 2 effets simultanément**
 5. Tue-la **toi-même** (épée, à mains nues, peu importe — il faut juste que le dernier dégât vienne du joueur)
 6. → Drop **1 paire d'élytres** ✨
 
 ## Astuces
 
-- **Plusieurs essais** : prépare plusieurs endermites en cage avant de te lancer, car le timing peut être chiant
-- **Cage anti-shulker** : le shulker peut te léviter aussi si tu es à portée. Reste hors de sa ligne de vue ou utilise une cage avec mur entre toi et lui
 - **Shulker captif** : capture ton shulker dans un cube fermé pour éviter qu'il téléporte (les shulkers TP de temps en temps sur les blocs solides)
 - **Combo trident Canalisation** : une fois ton élytre obtenue, vise la combo trident Loyauté + Canalisation pour le combat aérien
 

@@ -56,15 +56,15 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 -   :material-shoe-print: **[Obtention de Swift Sneak](obtention-swift-sneak.md)**
 
-    Comment obtenir l'enchantement Furtivité rapide sur TdR (page à compléter).
+    Comment obtenir l'enchantement Furtivité rapide sur TdR.
 
 -   :material-feather: **[Obtention des Élytres](obtention-elytres.md)**
 
-    Comment obtenir une paire d'élytres sur TdR (page à compléter).
+    Comment obtenir une paire d'élytres sur TdR.
 
 -   :material-treasure-chest: **[Obtention de Shulker Box](obtention-shulker-box.md)**
 
-    Comment obtenir des shulker boxes sur TdR (page à compléter).
+    Comment obtenir des shulker boxes sur TdR.
 
 -   :material-flower-pollen: **[Farm de coraux automatique](farm-corail.md)**
 

@@ -41,11 +41,16 @@ Renouvelable infiniment via les pousses + sable + fioles d'eau.
 
 Place **1 bloc d'algues séchées** entouré de **4+ blocs de corail du même type** (vivant ou mort) dans un 5×5×5. Les algues séchées se convertissent en ce corail.
 
-| Biome | Vitesse de conversion |
-|---|---|
-| Biomes chauds / plaines | ~22 s |
-| Biomes froids | ~40 s |
-| Désert | jusqu'à 16 min |
+La vitesse dépend de la **température du biome** : sweet spot autour de 0.65 (océan chaud, plaines). Plus la température s'éloigne de cette valeur (dans un sens **ou** l'autre), plus la conversion est lente.
+
+| Catégorie | Biomes concernés | Vitesse de conversion |
+|---|---|---|
+| **Tempéré** (temp 0.5-0.8) | Océan chaud, plaines, forêt, jungle | ~22-24 s |
+| **Froid** (temp 0-0.4) | Taïga, océan glacé, neige | ~26-40 s |
+| **Brûlant extrême** (temp 2.0) | Désert, badlands (toutes variantes) | ~16 min |
+
+!!! info "Pourquoi le désert est si lent"
+    La température du désert est **2.0**, très éloignée du sweet spot 0.65. La formule clampe le suitability à **0**, donc la chance tombe au minimum de **1% par scan tick** (vs ~45% en biome tempéré).
 
 **Source initiale des coraux** : marchand ambulant vanilla (8 blocs/troc).
 

@@ -102,7 +102,7 @@
 ### Doc et accessibilité
 - [x] Wiki MkDocs Material en ligne (ce site)
 - [ ] Tutoriels vidéo (descente Y=-64, druse d'améthyste, etc.)
-- [ ] Traductions FR_FR / FR_CA / EN_US des advancements
+- [x] Traductions FR_FR / FR_CA / EN_US des advancements (108/108 dans chaque langue, termes vanilla MC FR Java vérifiés)
 - [ ] Page « première fois » pour les nouveaux joueurs
 
 ### Features potentielles

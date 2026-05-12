@@ -15,7 +15,7 @@ En vanilla MC, les **shulkers** vivent uniquement dans les **End cities** du End
 
 ## La mécanique custom TdR
 
-Mixin `EnderDragonFightShulkerMixin` : lorsque le Dragon de l'End est tué pour la **2e fois ou plus** (i.e. quand `previouslyKilled` est déjà `true` avant ce kill), **un Shulker spawne automatiquement 4 blocs au-dessus du portail de sortie** (sommet du pilier de bedrock central).
+Mixin `EnderDragonFightShulkerMixin` : lorsque le Dragon de l'End est tué pour la **2e fois ou plus** , **un Shulker spawne automatiquement 4 blocs au-dessus du portail de sortie** (sommet du pilier de bedrock central).
 
 ```
 Sommet pilier bedrock = portal location + 4 blocs vers le haut = position spawn shulker
@@ -28,7 +28,7 @@ Le shulker spawne **uniquement si l'espace est libre** (vérification de collisi
     - 1er kill du dragon (flag = false → true) → **pas de shulker**
     - 2e kill et suivants (flag = true → true) → **shulker spawné**
 
-Renouvelable à l'infini : à chaque re-respawn et re-kill, un nouveau shulker apparaît.
+Renouvelable à l'infini : à chaque re-respawn et re-kill, un nouveau shulker apparaît, de plus il est possible de dupliquer les shulkers ;).
 
 ## Pré-requis
 
@@ -52,10 +52,7 @@ V G V
 
 *V = verre · L = larme de Ghast · G = perle de l'Ender (vanilla utilise œil de l'Ender, mais on simplifie ici)*
 
-Une fois les 4 cristaux placés, le dragon **respawn automatiquement** + les piliers d'obsidienne se régénèrent.
-
-!!! warning "Sur TdR, les piliers d'obsidienne ne sont pas pré-générés"
-    Le re-respawn vanilla **ne génère pas** les piliers d'obsidienne sur TdR (ils étaient supprimés par le voidage initial). Le dragon spawne quand même à Y=128 et le combat se déroule normalement, juste sans les piliers à protéger.
+Une fois les 4 cristaux placés, le dragon **respawn automatiquement**.
 
 ## Étape 2 — Tuer le dragon (2e fois)
 

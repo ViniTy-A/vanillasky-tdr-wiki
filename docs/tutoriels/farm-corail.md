@@ -16,9 +16,9 @@ Les **blocs de corail** sont la source du **sable** sur TdR (via érosion en con
 
 ## Pré-requis
 
-- Avoir reçu **au moins 1 bloc de corail** du marchand ambulant (trade 8 blocs/troc)
+- Avoir reçu **au moins 4 blocs de corail** du marchand ambulant (trade 8 blocs/troc)
 - ≥1 **bloc d'algues séchées** (algues = kelp, séchées au four)
-- Bois pour construire la structure
+- Blocs pour construire la structure
 - Quelques seaux d'eau
 
 ## Principe — Mécanique de propagation
@@ -31,7 +31,7 @@ Sur TdR, **1 bloc d'algues séchées** entouré de **4+ blocs de corail du même
 | Froids | ~40 s |
 | Désert | ~16 min |
 
-→ Place ton farm dans un **biome chaud / océan chaud** pour les meilleures vitesses.
+→ Place ta farm dans un **biome chaud / océan chaud** pour les meilleures vitesses.
 
 ## Architecture — Cellule simple
 
@@ -64,21 +64,6 @@ Toute la cellule doit être **immergée** dans l'eau (sinon les coraux meurent a
 
 Place une **source d'eau** au-dessus pour que ça remplit le cube par la gravité, OU place 4 sources aux coins puis remplis avec des seaux.
 
-### Bras observer + piston (avancé)
-
-Pour automatiser le **respawn** des blocs d'algues séchées convertis :
-
-1. Place un **observer** qui regarde le bloc central
-2. L'observer détecte le changement bloc d'algues → bloc corail
-3. Active un **piston collant** qui pousse le nouveau corail dans une **hopper** + collecte
-4. Un dispenseur place un nouveau bloc d'algues séchées au centre
-
-C'est complexe à construire, mais permet une production passive infinie.
-
-### Versions simples
-
-Plus simple : laisse tourner le farm, reviens toutes les 30s pour collecter manuellement et placer un nouveau bloc d'algues séchées.
-
 ## Coraux disponibles
 
 Le marchand ambulant vend les **5 variantes** de blocs de corail :
@@ -89,7 +74,6 @@ Le marchand ambulant vend les **5 variantes** de blocs de corail :
 - 🟥 Corail de feu (red)
 - 🟨 Corail à cornes (yellow)
 
-Chaque farm est dédié à **une seule variante**. Construis plusieurs farms en parallèle pour collecter tous les types.
 
 ## Du corail au sable
 

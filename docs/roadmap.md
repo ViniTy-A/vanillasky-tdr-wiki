@@ -77,13 +77,14 @@
 - [x] ~12 succès Tier 3 supplémentaires (trim advancements + autres)
 
 ### Progression
-- [x] ~90 succès de progression alignés sur CSA-Reborn
+- [x] 93 succès de progression alignés sur CSA-Reborn
 - [x] Activation générateur des épreuves (strict via clic bâton)
 - [x] Bâton de Breeze (inventaire)
 - [x] Disques chambre des épreuves (Precipice + Creator)
 - [x] Armure de nautile en diamant
 - [x] Buisson (rehydratation)
 - [x] Cœur de grinceur
+- [x] Swift Sneak via table d'enchantement avec Warden à ≤12 blocs
 
 ### Commandes serveur
 - [x] `/myseed` + alias FR `/maseed`
@@ -101,9 +102,8 @@
 
 ### Doc et accessibilité
 - [x] Wiki MkDocs Material en ligne (ce site)
-- [ ] Tutoriels vidéo (descente Y=-64, druse d'améthyste, etc.)
 - [x] Traductions FR_FR / FR_CA / EN_US des advancements (108/108 dans chaque langue, termes vanilla MC FR Java vérifiés)
-- [ ] Page « première fois » pour les nouveaux joueurs
+- [ ] Tutoriels vidéo — textes rédigés, **enregistrements vidéo en cours** (descente Y=-64, druse d'améthyste, etc.)
 
 ### Features potentielles
 - [x] Système d'enchères entre joueurs (`/ah` avec GUI, persistence, mailbox, offres)
@@ -115,6 +115,5 @@
 🎯 **1er juillet 2026**
 
 D'ici là, le focus est sur :
-1. Finaliser les tutos vidéo (descente Y=-64, druse d'améthyste, blaze→breeze, etc.)
-2. Compléter les advancements de progression manquants
-3. Tests stress avec 20 joueurs simultanés
+1. Finaliser les **enregistrements vidéo** des tutos (textes déjà rédigés)
+2. Tests stress avec 20 joueurs simultanés

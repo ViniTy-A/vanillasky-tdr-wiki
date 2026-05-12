@@ -50,7 +50,7 @@ La vitesse dépend de la **température du biome** : sweet spot autour de 0.65 (
 | **Brûlant extrême** (temp 2.0) | Désert, badlands (toutes variantes) | ~16 min |
 
 !!! info "Pourquoi le désert est si lent"
-    La température du désert est **2.0**, très éloignée du sweet spot 0.65. La formule clampe le suitability à **0**, donc la chance tombe au minimum de **1% par scan tick** (vs ~45% en biome tempéré).
+    La température du désert est **2.0**, très éloignée de la valeur idéale (0.65). Du coup la chance de conversion tombe au minimum de **1% toutes les 10 secondes** (contre ~45% en biome tempéré).
 
 **Source initiale des coraux** : marchand ambulant vanilla (8 blocs/troc).
 

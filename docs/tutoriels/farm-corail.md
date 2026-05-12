@@ -33,7 +33,7 @@ La vitesse dépend de la **température du biome** : sweet spot autour de 0.65. 
 | **Froid** (temp 0-0.4) | Taïga, océan glacé, neige | ~26-40 s |
 | **Brûlant extrême** (temp 2.0) | Désert, badlands (toutes variantes) | ~16 min |
 
-→ Place ta farm dans un **biome tempéré** (océan chaud, plaines, forêt) pour les meilleures vitesses. **Évite désert et badlands** — leur température extrême (2.0) clamp le suitability à 0 et ralentit énormément.
+→ Place ta farm dans un **biome tempéré** (océan chaud, plaines, forêt) pour les meilleures vitesses. **Évite désert et badlands** — leur température extrême rend la conversion quasi nulle (chance minimum de 1% par cycle de 10 secondes).
 
 ## Architecture — Cellule simple
 

@@ -106,8 +106,8 @@
 - [ ] Page « première fois » pour les nouveaux joueurs
 
 ### Features potentielles
-- [ ] Système d'enchères entre joueurs (`/auction` commencé)
-- [ ] Visites entre îles (`/island invite`)
+- [x] Système d'enchères entre joueurs (`/ah` avec GUI, persistence, mailbox, offres)
+- [x] Visites entre îles (`/island invite|uninvite|visitors|public on|off` + alias FR `/ile inviter|désinviter|visiteurs|public`)
 - [ ] Stats globales sur le wiki (joueurs actifs, mondes générés, etc.)
 
 ## Date d'ouverture du serveur

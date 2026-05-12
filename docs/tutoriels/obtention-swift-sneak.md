@@ -55,39 +55,10 @@ Quand tu utilises une **table d'enchantement** avec **un Warden à ≤12 blocs**
 
 Sur TdR, **le hurleur sculk au centre de l'ancienne cité est pré-placé** avec `can_summon=true` — il sert directement à spawn le Warden.
 
-## Étape 2 — Construire ta zone d'enchantement sécurisée
+## Étape 2 — Construire ta zone d'enchantement "sécurisée"
 
-Plus complexe que ça en a l'air à cause du Warden.
+Plus complexe que ça en a l'air à cause du Warden et de son sonic boom.
 
-### Layout type
-
-1. **Plateforme de safe-zone** : surélevée de 5 blocs au-dessus du hurleur (le Warden ne saute pas haut)
-2. **Murs en obsidienne** (résistants à tout dégât du Warden)
-3. **Table d'enchantement** posée sur cette plateforme
-4. **15 étagères** autour (1 bloc d'écart entre la table et chaque étagère)
-5. **Distance Warden-table** : ≤12 blocs en ligne directe
-
-### Schéma simplifié
-
-```
-        Plateforme (Y=N)
-        ┌────────────────┐
-        │  Étagères      │
-        │   ┌──┐         │
-        │   │T │  ← Table d'enchantement
-        │   └──┘         │
-        │  Étagères      │
-        └─────────┬──────┘
-                  │ 5 blocs
-                  ▼
-        Hurleur sculk pré-placé
-                  │
-                  │ Le Warden spawn ici quand activé
-                  ▼
-            Zone Warden
-```
-
-Le Warden au sol + ta table à 5 blocs au-dessus = distance ≤12 blocs ✓.
 
 ## Étape 3 — Spawner le Warden
 
@@ -102,7 +73,7 @@ Une fois le Warden spawné et à ≤12 blocs de ta table :
 
 1. Pose un **livre** ou une **paire de jambières** sur la table
 2. Ajoute 1-3 **lapis-lazuli** et au moins 30 niveaux d'XP
-3. Regarde les 3 enchants proposés — un d'entre eux peut être **Swift Sneak I, II ou III**
+3. Regarde les 3 enchants proposés — un d'entre eux peut être **Swift Sneak I, II.
 4. Si swift_sneak n'apparaît pas dans les 3 propositions, **annule** (clique pas), enchante autre chose pour re-roller, et recommence
 
 **Probabilité** : random, dépend du roll de coût. Compte plusieurs essais.
@@ -114,14 +85,13 @@ Le niveau 3 ne sort jamais directement de la table (capé à 30, minCost III = 3
 **Procédure** :
 1. Enchante jusqu'à obtenir **2 livres Swift Sneak II**
 2. Sur enclume, combine **livre Swift Sneak II + livre Swift Sneak II** → 1 livre Swift Sneak III
-3. Applique ce livre sur tes jambières (Netherite recommandé) avec une enclume
+3. Applique ce livre sur tes jambières avec une enclume.
 
 ## Astuces
 
-- **Anti-Warden** : place ta plateforme en obsidienne et reste accroupi quand tu approches. Le Warden détecte les vibrations + les odeurs.
+- **Anti-Warden** : place ta plateforme et reste accroupi quand tu approches. Le Warden détecte les vibrations + les odeurs.
 - **Multi-essais** : prépare plein de livres + lapis avant de spawn le Warden, comme ça tu n'as pas à re-spawn pour plusieurs essais
-- **Plusieurs Wardens** : tu peux activer le hurleur plusieurs fois pour avoir plusieurs Wardens, mais c'est plus de risques
-- **Warden contre cri sonique** : si tu es à 5 blocs et au-dessus, le Warden ne peut pas te toucher en mêlée mais il peut te frapper avec son cri sonique. Reste à côté de murs en obsidienne pour bloquer le cri si possible.
+- **Warden contre cri sonique** : si tu es à 5 blocs et au-dessus, le Warden ne peut pas te toucher en mêlée mais il peut te frapper avec son cri sonique.
 
 ## Bonus — Avantages de Swift Sneak
 
@@ -129,7 +99,7 @@ Le niveau 3 ne sort jamais directement de la table (capé à 30, minCost III = 3
 - Niveau **II** : marche à 60% de la vitesse normale en accroupi
 - Niveau **III** : marche à 90% de la vitesse normale en accroupi
 
-Combiné à **Soul Speed III** sur bottes (sur âme sable / âme terre), tu peux te déplacer encore plus vite en mode discret.
+
 
 ## Liens connexes
 

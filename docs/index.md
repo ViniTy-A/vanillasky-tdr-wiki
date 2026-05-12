@@ -77,4 +77,4 @@ Si tu apprécies le concept, va voir le modpack original — il propose une vers
 ---
 
 !!! info "Serveur Fabric MC 1.21.11 · Mod custom `vanillasky` 0.1.0"
-    Le serveur ouvre le **1er juillet 2026** · 10 joueurs maximum · Hébergé chez l'admin.
+    Le serveur ouvre le **1er juillet 2026** · 20 joueurs maximum · Hébergé chez l'admin.

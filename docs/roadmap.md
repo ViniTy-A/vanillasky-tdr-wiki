@@ -117,4 +117,4 @@
 D'ici là, le focus est sur :
 1. Finaliser les tutos vidéo (descente Y=-64, druse d'améthyste, blaze→breeze, etc.)
 2. Compléter les advancements de progression manquants
-3. Tests stress avec 10 joueurs simultanés
+3. Tests stress avec 20 joueurs simultanés

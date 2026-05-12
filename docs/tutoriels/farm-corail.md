@@ -25,13 +25,15 @@ Les **blocs de corail** sont la source du **sable** sur TdR (via érosion en con
 
 Sur TdR, **1 bloc d'algues séchées** entouré de **4+ blocs de corail du même type** dans un 5×5×5 se convertit en ce corail.
 
-| Biome | Vitesse |
-|---|---|
-| Chaud / plaines | ~22 s |
-| Froids | ~40 s |
-| Désert | ~16 min |
+La vitesse dépend de la **température du biome** : sweet spot autour de 0.65. Plus la température s'éloigne de cette valeur (dans un sens **ou** l'autre), plus la conversion est lente.
 
-→ Place ta farm dans un **biome chaud / océan chaud** pour les meilleures vitesses.
+| Catégorie | Biomes concernés | Vitesse |
+|---|---|---|
+| **Tempéré** (temp 0.5-0.8) | Océan chaud, plaines, forêt, jungle | ~22-24 s |
+| **Froid** (temp 0-0.4) | Taïga, océan glacé, neige | ~26-40 s |
+| **Brûlant extrême** (temp 2.0) | Désert, badlands (toutes variantes) | ~16 min |
+
+→ Place ta farm dans un **biome tempéré** (océan chaud, plaines, forêt) pour les meilleures vitesses. **Évite désert et badlands** — leur température extrême (2.0) clamp le suitability à 0 et ralentit énormément.
 
 ## Architecture — Cellule simple
 

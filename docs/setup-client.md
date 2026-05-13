@@ -12,25 +12,28 @@ Affiche les boîtes englobantes (BB) des structures cachées dans tes mondes vid
 
 Le serveur a **Servux** qui pousse les BB automatiquement — il te suffit d'installer Mini-HUD côté client.
 
-[:material-download: Télécharger Mini-HUD](https://modrinth.com/mod/minihud/version/x6t2AqMg){ .md-button .md-button--primary }
+[:material-download: Télécharger Mini-HUD](https://modrinth.com/mod/minihud){ .md-button .md-button--primary }
 
 ### MaLiLib
 
 Dépendance requise par Mini-HUD (et les autres mods Masa).
 
-[:material-download: Télécharger MaLiLib](https://modrinth.com/mod/malilib/version/UW6wRWbH){ .md-button }
+[:material-download: Télécharger MaLiLib](https://modrinth.com/mod/malilib){ .md-button }
 
 ### Better Advancements
 
 Agrandit la fenêtre des avancements en plein écran et permet de zoomer/scroller à la souris. Très utile pour parcourir les **~90 advancements** de la progression Vanilla Sky.
 
-[:material-download: Télécharger Better Advancements](https://modrinth.com/mod/better-advancements/version/8im6QWDT){ .md-button }
+[:material-download: Télécharger Better Advancements](https://modrinth.com/mod/better-advancements){ .md-button }
 
 ### Mod Menu
 
 Ajoute un bouton **« Mods »** dans le menu principal pour configurer tes mods Fabric depuis le jeu (Mini-HUD, etc.).
 
-[:material-download: Télécharger Mod Menu](https://modrinth.com/mod/modmenu/version/Tyk71iSw){ .md-button }
+[:material-download: Télécharger Mod Menu](https://modrinth.com/mod/modmenu){ .md-button }
+
+!!! warning "Attention à la version"
+    Tous ces mods ont plusieurs versions selon ta version Minecraft. **Choisis toujours la version compatible avec ton client** (Fabric **1.21.11** pour TdR). Sur Modrinth, utilise le filtre **Game versions = 1.21.11** + **Loader = Fabric** avant de télécharger.
 
 ## Sites utiles
 

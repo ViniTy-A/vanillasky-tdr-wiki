@@ -23,16 +23,24 @@ Ce tuto montre la chaîne complète : œufs de tortue → noyé porteur → œuf
 - 1 **lit** près des œufs de tortue (pour skip les nuits sans les casser)
 - Patience : taux de spawn ~1% de noyés porteurs
 
-## Étape 1 — Trouver et reproduire des tortues
+## Étape 1 — Faire spawner et reproduire des tortues
 
-### Spawn naturel
+### Spawn — il faut le déclencher toi-même
 
-Les tortues spawnent **uniquement dans le biome Plage** (sur le sable des plages classiques). Vole/explore le long des côtes de ton Overworld pour en trouver.
+En skyblock il n'y a pas de plages naturelles. Procédure :
+
+1. **Trouve les coordonnées d'un biome Plage** avec `/myseed` + [Chunkbase](https://chunkbase.com) → Biome Finder → filtre **Beach**
+2. **Vole jusqu'à ces coordonnées** (avec un parachute = élytres si déjà obtenues, ou pose un pont/échafaudage)
+3. **Pose du sable** sur place — assez pour faire une petite plage (au moins quelques blocs adjacents)
+4. **Attends** : les tortues spawnent naturellement sur le sable du biome Plage. Pose-toi loin (32+ blocs) et patiente.
+
+!!! tip "Astuce light-proof inversé"
+    Contrairement aux fermes à mobs hostiles, ici tu veux que les tortues spawnent. Le sable doit être **exposé au ciel** (block light = 0, sky light ≥ 9). Pas de toit au-dessus.
 
 ### Reproduction
 
 1. Capture 2 tortues (laisse, ou pousse-les avec des blocs)
-2. Amène-les sur le **sable d'une plage** (elles ont besoin de sable pour pondre)
+2. Amène-les sur le **sable de ta plage artificielle** (elles ont besoin de sable pour pondre)
 3. Donne à chacune une **herbe aquatique** (pas de l'algue !) → mode amour
 4. Elles se reproduisent → une tortue **enceinte** retourne sur la plage où elle est née
 5. Elle creuse, pond **1-4 œufs de tortue** sur le sable

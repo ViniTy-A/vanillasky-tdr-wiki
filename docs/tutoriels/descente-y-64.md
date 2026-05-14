@@ -2,16 +2,20 @@
 
 En skyblock il n'y a **rien** sous ton île — juste le vide. Pour profiter des avantages des couches profondes (spawn rate boost, pas de phantoms), il faut **construire ta propre voie de descente bloc par bloc**. **Une seule technique est viable en early game** : la descente par trappes.
 
-!!! info "Vidéo à venir"
-    Tuto vidéo en cours d'enregistrement par l'admin du serveur.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.3rem; margin: 1.5rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/pdKPJp11YCU?rel=0"
+    title="Descente à Y=-64 par trappes — Vanilla Sky TdR"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    loading="lazy"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
 
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Descente à Y=-64 par trappes — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
--->
+<p style="text-align: center; margin-top: -0.5rem; font-size: 0.85em; opacity: 0.7;">
+  <a href="https://youtu.be/pdKPJp11YCU" target="_blank" rel="noopener">▶ Regarder sur YouTube</a>
+  · Le tuto écrit ci-dessous reprend les mêmes étapes en référence
+</p>
 
 ## Pourquoi descendre ?
 

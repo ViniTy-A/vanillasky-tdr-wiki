@@ -5,13 +5,13 @@ Cette section regroupe les tutos pas-à-pas pour les **vrais problèmes de joueu
 Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles uniquement avec le lien du wiki).
 
 !!! info "État actuel"
-    Les **textes** sont rédigés ou en cours. Les **vidéos** seront intégrées au fur et à mesure.
+    Les **textes** sont rédigés ou en cours. Les **vidéos** sont intégrées au fur et à mesure — les tutos qui ont déjà une vidéo sont marqués d'un :material-youtube:{ style="color: #ff0000" }.
 
 ## 🌱 Premiers pas
 
 <div class="grid cards" markdown>
 
--   :material-arrow-down-thick: **[Descente à Y=-64](descente-y-64.md)**
+-   :material-arrow-down-thick: **[Descente à Y=-64](descente-y-64.md)** :material-youtube:{ style="color: #ff0000" }
 
     Comment construire ta voie de descente bloc par bloc grâce à la technique des trappes (seule méthode viable en early game).
 

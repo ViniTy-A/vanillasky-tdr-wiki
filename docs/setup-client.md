@@ -38,6 +38,11 @@ Pose des **hologrammes** de schémas de construction (formats `.litematic` / `.s
 
 [:material-download: Télécharger Litematica](https://modrinth.com/mod/litematica){ .md-button }
 
+!!! danger "Printer auto-build interdit"
+    Le **Printer** de Litematica (placement automatique des blocs en suivant l'hologramme) est **détecté côté serveur** et entraîne un kick immédiat (au-dessus de 9 placements/sec sur 2 secondes consécutives).
+
+    L'hologramme et la liste de matériaux restent évidemment autorisés — c'est leur usage normal. Tu poses les blocs **toi-même** en suivant le guide visuel.
+
 !!! warning "Attention à la version"
     Tous ces mods ont plusieurs versions selon ta version Minecraft. **Choisis toujours la version compatible avec ton client** (Fabric **1.21.11** pour TdR). Sur Modrinth, utilise le filtre **Game versions = 1.21.11** + **Loader = Fabric** avant de télécharger.
 

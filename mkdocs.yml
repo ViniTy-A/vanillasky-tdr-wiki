@@ -134,8 +134,8 @@ nav:
       - tutoriels/index.md
       - Premiers pas:
           - Descente Y=-64: tutoriels/descente-y-64.md
-          - Comment avoir de l'eau: tutoriels/premier-seau-eau.md
           - Ferme à mob sans eau: tutoriels/ferme-mobs-sans-eau.md
+          - Comment avoir de l'eau: tutoriels/premier-seau-eau.md
           - Comment avoir de l'or: tutoriels/comment-avoir-or.md
           - Comment avoir des émeraudes: tutoriels/emeraudes-marchand.md
       - Mécaniques visuelles complexes:

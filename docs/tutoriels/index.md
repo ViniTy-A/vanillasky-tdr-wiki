@@ -40,7 +40,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
 <div class="grid cards" markdown>
 
--   :material-diamond-stone: **[Druse d'améthyste artificielle](druse-amethyste.md)**
+-   :material-diamond-stone: **[Druse d'améthyste artificielle](druse-amethyste.md)** :material-youtube:{ style="color: #ff0000" }
 
     Le pattern 3×3×3 basalte lisse + calcite + lave pour faire une druse d'améthyste.
 

@@ -103,7 +103,7 @@
 ### Doc et accessibilité
 - [x] Wiki MkDocs Material en ligne (ce site)
 - [x] Traductions FR_FR / FR_CA / EN_US des advancements (108/108 dans chaque langue, termes vanilla MC FR Java vérifiés)
-- [ ] Tutoriels — textes rédigés, **enregistrements vidéo en cours** (descente Y=-64 ✅, ferme à mobs ✅, druse d'améthyste, etc.)
+- [ ] Tutoriels — textes rédigés, **enregistrements vidéo en cours** (descente Y=-64 ✅, ferme à mobs ✅, druse d'améthyste ✅, etc.)
 
 ### Features potentielles
 - [x] Système d'enchères entre joueurs (`/ah` avec GUI, persistence, mailbox, offres)

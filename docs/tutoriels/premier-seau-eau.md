@@ -2,17 +2,6 @@
 
 Sur ton île, pas de lac, pas de rivière, pas d'océan. Voici la **vraie** procédure pour avoir ton premier seau d'eau sur TdR.
 
-!!! info "Vidéo à venir"
-    Tuto vidéo en cours.
-
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Premier seau d'eau — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
--->
-
 ## Étape 1 — Réunir 7 lingots de fer (pour le chaudron)
 
 **La seule source de fer en early game** : tuer des **zombies** par **player kill** (drop rate ~3.5% par kill).

@@ -42,9 +42,9 @@ Biomes et zones des structures existent encore — à toi de les découvrir, dan
 
     Comment obtenir sable, diamant renouvelable, têtes de dragon, disques musicaux, druse d'améthyste, et toutes les autres ressources.
 
--   :material-video: **[Tutoriels vidéo](tutoriels/index.md)**
+-   :material-video: **[Tutoriels](tutoriels/index.md)**
 
-    Vidéos pas-à-pas pour les manipulations complexes (descente Y=-64, druse d'améthyste, etc.).
+    Pas-à-pas pour les manipulations complexes (descente Y=-64, druse d'améthyste, etc.) — texte + vidéo quand disponible.
 
 -   :material-monitor-cellphone: **[Setup client](setup-client.md)**
 

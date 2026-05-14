@@ -190,11 +190,11 @@ Reste dans/à côté d'un désert le temps qu'un marchand ambulant spawn (toutes
 
 Le chameau t'appartient (pas besoin de le voler — il est déjà sans propriétaire).
 
-## Éponge (via gardien ancestral)
+## Éponge (via Grand Gardien)
 
-Place un **gardien** dans une zone exposée au ciel pendant un orage. Frappe-le avec un **trident Canalisation** (ou amène un paratonnerre à proximité). Tous les gardiens dans un rayon de 12 blocs autour de la frappe sont convertis en **gardiens ancestraux**.
+Place un **gardien** dans une zone exposée au ciel pendant un orage. Frappe-le avec un **trident Canalisation** (ou amène un paratonnerre à proximité). Tous les gardiens dans un rayon de 12 blocs autour de la frappe sont convertis en **Grands Gardiens**.
 
-Tue le gardien ancestral pour récupérer **1 éponge** (drop garanti pour la mort par joueur).
+Tue le Grand Gardien pour récupérer **1 éponge** (drop garanti pour la mort par joueur).
 
 !!! tip "Multi-conversion"
     Tu peux convertir plusieurs gardiens d'un coup en les regroupant dans la zone d'effet.

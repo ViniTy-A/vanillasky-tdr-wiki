@@ -62,7 +62,7 @@
 - [x] Catalyseur sculk via Warden
 - [x] Terre des âmes via feu de camp des âmes
 - [x] Chameau via marchand ambulant désert
-- [x] Éponge via gardien ancestral
+- [x] Éponge via Grand Gardien
 
 ### Chambres des épreuves (strict CSA-Reborn)
 - [x] Générateurs des épreuves bloqués INACTIVE par défaut
@@ -103,7 +103,7 @@
 ### Doc et accessibilité
 - [x] Wiki MkDocs Material en ligne (ce site)
 - [x] Traductions FR_FR / FR_CA / EN_US des advancements (108/108 dans chaque langue, termes vanilla MC FR Java vérifiés)
-- [ ] Tutoriels vidéo — textes rédigés, **enregistrements vidéo en cours** (descente Y=-64, druse d'améthyste, etc.)
+- [ ] Tutoriels — textes rédigés, **enregistrements vidéo en cours** (descente Y=-64 ✅, ferme à mobs ✅, druse d'améthyste, etc.)
 
 ### Features potentielles
 - [x] Système d'enchères entre joueurs (`/ah` avec GUI, persistence, mailbox, offres)

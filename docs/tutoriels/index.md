@@ -1,4 +1,4 @@
-# Tutoriels vidéo
+# Tutoriels
 
 Cette section regroupe les tutos pas-à-pas pour les **vrais problèmes de joueur** sur TdR : « comment je résous ça vu les contraintes du skyblock ? »
 

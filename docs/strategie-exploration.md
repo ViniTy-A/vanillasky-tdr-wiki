@@ -41,7 +41,7 @@ Une fois tes structures principales identifiées, regarde aussi :
 
 - **Chambre des épreuves** — pour les ornements d'armure (via challenges) + disques Creator/Precipice
 - **Manoir** (woodland mansion) — pour le disque 11
-- **Monument océanique** — pour le bloc spongieux (gardiens + élder guardian)
+- **Monument océanique** — pour le bloc spongieux (gardiens + Grand Gardien)
 - **Pyramide du désert** / **Ruines** — pour les tessons de poterie via renifleur
 
 ## 6. Biomes à viser

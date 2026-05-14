@@ -130,7 +130,7 @@ nav:
       - Chambres des épreuves: mecaniques/chambres-epreuves.md
       - Disques musicaux: mecaniques/disques.md
       - Drops spéciaux: mecaniques/drops.md
-  - Tutoriels vidéo:
+  - Tutoriels:
       - tutoriels/index.md
       - Premiers pas:
           - Descente Y=-64: tutoriels/descente-y-64.md

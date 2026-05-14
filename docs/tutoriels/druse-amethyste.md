@@ -19,7 +19,7 @@ Construis une géode artificielle qui produit une **druse d'améthyste** toutes 
 
 ## Matériel requis
 
-- 20 blocs de **basalte lisse** (du basalte + 4 fonte au haut fourneau OU table de tailleur)
+- 20 blocs de **basalte lisse** 
 - 6 blocs de **calcite** (diorite cuite au haut fourneau — voir [recette](../recettes/haut-fourneau.md))
 - 1 seau de **lave**
 

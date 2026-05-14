@@ -18,7 +18,7 @@ Ce tuto montre la chaîne complète : œufs de tortue → noyé porteur → œuf
 
 ## Pré-requis
 
-- Localisation d'une **plage** ou d'un **désert côtier** (les tortues spawnent sur sable côtier)
+- Localisation d'une **plage** (biome Plage — les tortues spawnent uniquement là, sur le sable)
 - 2-3 **herbes aquatiques** (pour la reproduction des tortues)
 - 1 **lit** près des œufs de tortue (pour skip les nuits sans les casser)
 - Patience : taux de spawn ~1% de noyés porteurs
@@ -27,12 +27,12 @@ Ce tuto montre la chaîne complète : œufs de tortue → noyé porteur → œuf
 
 ### Spawn naturel
 
-Les tortues spawnent sur les **plages chaudes** et les **rivages désertiques**. Vole/explore le long des côtes de ton Overworld pour en trouver.
+Les tortues spawnent **uniquement dans le biome Plage** (sur le sable des plages classiques). Vole/explore le long des côtes de ton Overworld pour en trouver.
 
 ### Reproduction
 
 1. Capture 2 tortues (laisse, ou pousse-les avec des blocs)
-2. Amène-les sur **sable côtier** (elles ont besoin de sable pour pondre)
+2. Amène-les sur le **sable d'une plage** (elles ont besoin de sable pour pondre)
 3. Donne à chacune une **herbe aquatique** (pas de l'algue !) → mode amour
 4. Elles se reproduisent → une tortue **enceinte** retourne sur la plage où elle est née
 5. Elle creuse, pond **1-4 œufs de tortue** sur le sable

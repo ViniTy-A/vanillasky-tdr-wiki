@@ -51,7 +51,7 @@ Certains biomes sont nécessaires pour des mécaniques spécifiques :
 | Biome | Pour quoi ? |
 |---|---|
 | Jungle (toute variante) | Fèves de cacao (pêche) |
-| Plage / désert côtier | Tortues → œufs de renifleur |
+| Plage | Tortues → œufs de renifleur |
 | Désert / Badlands | Marchand ambulant à chameau |
 | Jardin pâle | Cœur de grinceur |
 

@@ -109,7 +109,7 @@ Les notes correctes font apparaître des cœurs ; une mauvaise note remet le com
 
 ### Étape 1 — Obtenir des œufs de tortue
 
-Trouve une **plage** ou un **désert** côtier (les tortues spawnent sur sable). Capture/élève 2 tortues, donne 1 **herbe aquatique** à chacune → reproduction. La tortue rentre vers sa plage de naissance, creuse, pond **1 à 4 œufs** sur le sable.
+Trouve une **plage** (biome Plage — les tortues y spawnent naturellement sur le sable). Capture/élève 2 tortues, donne 1 **herbe aquatique** à chacune → reproduction. La tortue rentre vers sa plage de naissance, creuse, pond **1 à 4 œufs** sur le sable.
 
 ### Étape 2 — Repérer un noyé porteur
 

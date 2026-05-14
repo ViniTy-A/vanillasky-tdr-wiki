@@ -49,6 +49,9 @@ Avec ta seed (`/myseed`), tu peux explorer ton monde en 2D : positions des struc
 
 → [chunkbase.net](https://chunkbase.net)
 
+!!! warning "Installe un adblock avant"
+    Chunkbase est légitime (c'est l'outil standard de la communauté Minecraft) mais leur régie pub laisse parfois passer des **fausses alertes antivirus** ("Your computer might be infected — Avast" etc.). Ce sont des **arnaques** : ne clique surtout pas. Installe **uBlock Origin** ([Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/) / [Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)) avant la première visite — adblock = zéro problème.
+
 ## Activer la ligne biome dans F3
 
 En MC 1.21.x, le F3 utilise un système d'**entries modulaires**. La ligne `Biome: ...` n'est pas activée par défaut. Pour l'activer :

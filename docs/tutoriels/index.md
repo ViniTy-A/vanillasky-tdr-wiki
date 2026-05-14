@@ -15,7 +15,7 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
     Comment construire ta voie de descente bloc par bloc grâce à la technique des trappes (seule méthode viable en early game).
 
--   :material-skull-outline: **[Ferme à mob sans eau](ferme-mobs-sans-eau.md)**
+-   :material-skull-outline: **[Ferme à mob sans eau](ferme-mobs-sans-eau.md)** :material-youtube:{ style="color: #ff0000" }
 
     Ta toute première ferme à mob quand tu n'as pas d'eau.
 

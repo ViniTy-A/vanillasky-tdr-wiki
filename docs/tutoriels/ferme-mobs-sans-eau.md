@@ -10,13 +10,26 @@ En skyblock TdR, l'eau n'est pas dispo en early game (voir [Premier seau d'eau](
 
 Le but est que le mob spawn sur une dalle haute entourée d'escaliers. Son objectif sera de rejoindre les blocs pleins à l'opposé de sa plateforme de spawn (un mob veut toujours être sur des blocs pleins), et son IA finira toujours par le pousser à y aller. Des trappes lui font croire qu'il peut y accéder et il finit par tomber dans ta zone de kill.
 
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Ferme à mobs sans eau — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
--->
+!!! danger "Utilise les schemas du wiki, PAS le design exact de la vidéo"
+    La vidéo ci-dessous explique très bien **le concept** (IA des mobs, plateformes, trappes), et c'est pour ça qu'on la garde. **Mais** dans son design, les plateformes sont **trop hautes** : les mobs meurent de **dégâts de chute** avant que tu puisses les tuer toi-même.
+
+    **C'est rédhibitoire pour nous** : un zombie ne drop du **fer** que s'il est **tué par un joueur** (player kill rule). S'il meurt de chute, **zéro fer, zéro carotte, zéro patate, zéro vêtement de cuir**.
+
+    → **Construis avec mes 3 schemas Litematica ci-dessous** (tour simple/double/quad) — j'ai calibré les hauteurs pour que les mobs arrivent à 1-2 cœurs dans la zone de kill, prêts à être finis d'un coup d'épée.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.3rem; margin: 1.5rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/RZE0xbBlom8?rel=0"
+    title="Ferme à mobs sans eau — explication du concept"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    loading="lazy"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
+
+<p style="text-align: center; margin-top: -0.5rem; font-size: 0.85em; opacity: 0.7;">
+  Vidéo d'un autre créateur (pas de TdR) — utile pour <strong>comprendre le mécanisme</strong>. Pour la construction, suis les schemas ci-dessous.
+</p>
 
 ## Variantes — 3 tailles selon ton niveau de farm
 

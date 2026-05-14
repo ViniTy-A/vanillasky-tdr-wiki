@@ -50,7 +50,7 @@ Plus la tour est large, plus elle spawn de mobs en parallèle. Choisis selon les
 
     ---
 
-    2× plus de plateformes de spawn pour un footprint contenu.
+    Deux fois plus de plateformes de spawn → débit ~2× la tour simple.
 
     **~334 bûches de chêne · ≈5,2 stacks**
 

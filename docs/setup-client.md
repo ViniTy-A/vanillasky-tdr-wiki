@@ -47,10 +47,10 @@ Plateforme de référence pour télécharger les mods Fabric. Tous les mods ci-d
 
 Avec ta seed (`/myseed`), tu peux explorer ton monde en 2D : positions des structures, biomes, slime chunks. La même seed s'applique à tes 3 dimensions.
 
-→ [chunkbase.net](https://chunkbase.net)
+→ [chunkbase.com](https://chunkbase.com)
 
-!!! warning "Installe un adblock avant"
-    Chunkbase est légitime (c'est l'outil standard de la communauté Minecraft) mais leur régie pub laisse parfois passer des **fausses alertes antivirus** ("Your computer might be infected — Avast" etc.). Ce sont des **arnaques** : ne clique surtout pas. Installe **uBlock Origin** ([Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/) / [Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)) avant la première visite — adblock = zéro problème.
+!!! danger "Attention au typosquat"
+    Le vrai site est **chunkbase.com** — le domaine **.net** est un **typosquat** qui sert de fausses alertes antivirus ("Your computer might be infected — Avast"). Ne tape jamais l'URL à la main, utilise toujours un lien direct (`/myseed` te le donne en jeu).
 
 ## Activer la ligne biome dans F3
 

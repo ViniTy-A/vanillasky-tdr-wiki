@@ -30,7 +30,7 @@ Du Nether vers ton Overworld, un nouveau portail créé reçoit aussi 8 blocs de
 
 ## Portail de l'End
 
-Trouve ton **fort** (stronghold, visible avec Mini-HUD ou repérable sur [chunkbase.net](https://www.chunkbase.net)), remplis l'anneau de cadres de portail de l'End avec **12 yeux de l'Ender** (à crafter vanilla : poudre de Blaze + perle de l'Ender), et saute.
+Trouve ton **fort** (stronghold, visible avec Mini-HUD ou repérable sur [chunkbase.com](https://www.chunkbase.com)), remplis l'anneau de cadres de portail de l'End avec **12 yeux de l'Ender** (à crafter vanilla : poudre de Blaze + perle de l'Ender), et saute.
 
 Tu atterris sur la **plateforme d'obsidienne de spawn** dans **ton End**, avec ton dragon à toi.
 

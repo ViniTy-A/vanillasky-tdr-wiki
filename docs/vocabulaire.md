@@ -10,13 +10,13 @@ Même si tous les blocs de la structure sont retirés par le mod, la **BB reste 
 
 **Pour la voir en jeu** : installe **Mini-HUD** côté client (le serveur a Servux qui pousse les données automatiquement), active *overlayStructureMainToggle* et le type de structure voulu.
 
-**Pour la repérer d'avance** : entre ta seed sur **chunkbase.net** (Structure Finder).
+**Pour la repérer d'avance** : entre ta seed sur **chunkbase.com** (Structure Finder).
 
 ## Seed
 
 Nombre unique qui détermine entièrement la génération de ton monde (positions des biomes, structures, minerais, etc.).
 
-Tape `/myseed` pour la récupérer. À copier sur **chunkbase.net** pour explorer ton monde en 2D avant de partir.
+Tape `/myseed` pour la récupérer. À copier sur **chunkbase.com** pour explorer ton monde en 2D avant de partir.
 
 ## Dim / Dimension
 
@@ -104,7 +104,7 @@ Mod serveur qui pousse aux clients Mini-HUD les données nécessaires (BB des st
 
 ## Chunkbase
 
-Site web ([chunkbase.net](https://chunkbase.net)) qui visualise un monde Minecraft à partir de sa seed.
+Site web ([chunkbase.com](https://chunkbase.com)) qui visualise un monde Minecraft à partir de sa seed.
 
 Apps utiles : Biome Finder, Structure Finder, Slime Chunks. Pas besoin d'installer quoi que ce soit.
 

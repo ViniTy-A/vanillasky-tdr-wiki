@@ -30,5 +30,5 @@ Tu apparais à **(0.5, 65, -2.5)**, deux blocs au nord du tronc, face au sud (en
 1. **Casse les feuilles** du chêne pour récupérer des pousses (1/20 chance par feuille cassée à mains nues — environ 1-2 pousses par chêne)
 2. **Replante** une pousse pour garantir le cycle bois renouvelable
 3. **Tape** sur le chêne pour bois → établi → outils basiques
-4. Tape `/myseed` pour récupérer ta seed et explore ton monde sur [chunkbase.net](https://www.chunkbase.net)
+4. Tape `/myseed` pour récupérer ta seed et explore ton monde sur [chunkbase.com](https://www.chunkbase.com)
 5. **Repère tes structures** (fort, ancienne cité, chambre des épreuves, etc.) pour planifier ton parcours

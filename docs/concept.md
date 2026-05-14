@@ -23,7 +23,7 @@ Personne d'autre n'a accès à tes mondes. Tes constructions, tes farms et ton e
 
 Le générateur de monde vanilla produit les biomes et les structures (villages, monuments, chambres des épreuves, donjons, anciennes cités, forts, vestiges de bastion, forteresses du Nether…), mais leurs blocs sont retirés à la génération.
 
-Les **boîtes englobantes** (bounding boxes, abrégées **BB**) des structures restent enregistrées dans les données du chunk — visibles via un mod client comme **Mini-HUD**, ou repérables d'avance avec ta seed sur **[chunkbase.net](https://www.chunkbase.net)**.
+Les **boîtes englobantes** (bounding boxes, abrégées **BB**) des structures restent enregistrées dans les données du chunk — visibles via un mod client comme **Mini-HUD**, ou repérables d'avance avec ta seed sur **[chunkbase.com](https://www.chunkbase.com)**.
 
 ### Exceptions préservées
 

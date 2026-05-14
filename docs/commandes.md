@@ -4,15 +4,15 @@ Toutes les commandes spécifiques au serveur TdR.
 
 ## `/myseed`
 
-Affiche la seed de ton monde. **Clic-gauche sur le nombre** dans le chat pour la copier automatiquement dans ton presse-papiers, puis colle-la dans l'outil de ton choix (Chunkbase, Cubiomes Viewer, MineAtlas…) pour planifier tes explorations depuis le spawn.
+Affiche la seed de ton monde. **Clic-gauche sur le nombre** pour la copier dans ton presse-papiers, ou **clic sur le bouton [Ouvrir dans Chunkbase]** pour ouvrir directement [chunkbase.com](https://chunkbase.com) avec la seed pré-remplie.
 
 La seed est **partagée entre tes 3 dimensions** (Overworld, Nether, End utilisent la même seed).
 
 !!! tip "Alias FR"
     `/maseed` fait la même chose.
 
-!!! warning "Adblock recommandé pour Chunkbase"
-    Chunkbase est l'outil de référence mais sa régie pub laisse passer des **fausses alertes antivirus** ("Your computer is infected — Avast"). Installe **uBlock Origin** dans ton navigateur avant d'y aller. Voir [Setup client → Chunkbase](setup-client.md#chunkbase).
+!!! danger "Attention au typosquat"
+    Le vrai Chunkbase est **chunkbase.com**. Le domaine **.net** est un faux site qui sert des scams type "Your computer is infected — Avast". Utilise toujours le bouton in-game (qui pointe vers le bon domaine) plutôt que de taper l'URL à la main.
 
 ## `/island keepalive on|off`
 

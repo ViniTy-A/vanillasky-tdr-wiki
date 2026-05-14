@@ -48,7 +48,7 @@ Quand tu utilises une **table d'enchantement** avec **un Warden à ≤12 blocs**
 
 ## Étape 1 — Localiser une ancienne cité
 
-`/myseed` + [chunkbase.net](https://chunkbase.net) → Structure Finder → "Ancient City". Construis un pont jusqu'aux coordonnées.
+`/myseed` + [chunkbase.com](https://chunkbase.com) → Structure Finder → "Ancient City". Construis un pont jusqu'aux coordonnées.
 
 Sur TdR, **le hurleur sculk au centre de l'ancienne cité est pré-placé** avec `can_summon=true` — il sert directement à spawn le Warden.
 

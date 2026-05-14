@@ -8,7 +8,7 @@ Tape `/myseed` et note-la.
 
 ## 2. Ouvre chunkbase ou Mini-HUD
 
-### Sur chunkbase.net
+### Sur chunkbase.com
 
 Entre ta seed, sélectionne la version **1.21**, et cherche les structures / biomes qui t'intéressent.
 

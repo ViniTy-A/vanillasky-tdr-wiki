@@ -22,6 +22,11 @@ Le but est que le mob spawn sur une dalle haute entourée d'escaliers. Son objec
 
 Plus la tour est large, plus elle spawn de mobs en parallèle. Choisis selon les bûches que tu as et le débit que tu veux atteindre.
 
+!!! tip "Commence par la simple — dès que possible"
+    **Construis la tour simple dès que tu peux** (~229 bûches, soit 3,6 stacks de bois). C'est largement faisable en early game et ça te débloque ton premier flux régulier de drops zombies (fer, carottes, pommes de terre, vêtements en cuir, etc.). N'attends pas d'avoir le bois pour la quad — la simple paie déjà énormément.
+
+    **Upgrade en place** : pour passer simple → double ou double → quad, **tu n'as pas besoin de tout détruire**. Les schemas sont conçus pour être additifs — il te suffit d'apporter **la différence en matériaux** et d'étendre la structure existante. Voir le tableau des deltas plus bas.
+
 <div class="grid cards" markdown>
 
 -   :material-numeric-1-circle:{ .lg .middle } **Tour simple**
@@ -87,6 +92,18 @@ Plus la tour est large, plus elle spawn de mobs en parallèle. Choisis selon les
 
 !!! info "Comptage du bois"
     Le nombre de bûches inclut le craft de tous les sous-produits (planches → dalles, escaliers, trappes). Garde un peu de marge pour les erreurs de pose : prévoir +5% est une bonne habitude.
+
+### :material-arrow-up-bold: Upgrade en place — coût additionnel
+
+Pas besoin de tout casser pour passer au format supérieur. Tu apportes juste la différence :
+
+| Upgrade | Bûches supplémentaires | Stacks supplémentaires |
+|---|---:|---:|
+| Simple → Double | **+105 bûches** | ≈ **+1,6 stack** |
+| Double → Quad | **+246 bûches** | ≈ **+3,9 stacks** |
+| Simple → Quad (saut direct) | **+351 bûches** | ≈ **+5,5 stacks** |
+
+Concrètement : si tu as déjà une tour simple en place et qu'il te reste **un peu plus d'1,5 stack de bois**, tu peux directement passer en double. Pareil pour la double → quad avec ~4 stacks.
 
 ## Comment utiliser les schematics
 

@@ -32,6 +32,12 @@ Ajoute un bouton **« Mods »** dans le menu principal pour configurer tes mods 
 
 [:material-download: Télécharger Mod Menu](https://modrinth.com/mod/modmenu){ .md-button }
 
+### Litematica
+
+Pose des **hologrammes** de schémas de construction (formats `.litematic` / `.schematic`) avec liste de matériaux intégrée. Indispensable pour suivre les schemas du wiki — notamment les [tours à mobs](tutoriels/ferme-mobs-sans-eau.md) qui ont leur fichier `.litematic` téléchargeable directement.
+
+[:material-download: Télécharger Litematica](https://modrinth.com/mod/litematica){ .md-button }
+
 !!! warning "Attention à la version"
     Tous ces mods ont plusieurs versions selon ta version Minecraft. **Choisis toujours la version compatible avec ton client** (Fabric **1.21.11** pour TdR). Sur Modrinth, utilise le filtre **Game versions = 1.21.11** + **Loader = Fabric** avant de télécharger.
 

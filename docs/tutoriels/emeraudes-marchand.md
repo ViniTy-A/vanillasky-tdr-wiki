@@ -4,18 +4,6 @@ Le **marchand ambulant** vend des items précieux (pousses d'arbre, coraux, fleu
 
 Ce tuto explique comment en générer.
 
-!!! info "Vidéo à venir"
-    Enregistrement vidéo à venir.
-
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Émeraudes via villageois — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
--->
-
 ## Sources d'émeraudes sur TdR
 
 **La méthode principale = villageois.** Voici comment en avoir un.

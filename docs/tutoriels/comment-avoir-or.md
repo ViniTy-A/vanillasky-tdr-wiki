@@ -4,17 +4,6 @@ L'or est essentiel en early game pour fabriquer des **pommes dorées**, indispen
 
 **Objectif typique** : 16 lingots d'or = 2 pommes dorées = 2 cures de villageois zombies.
 
-!!! info "Vidéo à venir"
-    Tuto vidéo en cours.
-
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Comment avoir de l'or — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
--->
-
 ## ⚡ La méthode principale : ferme à cochons + paratonnerre
 
 ### Le principe

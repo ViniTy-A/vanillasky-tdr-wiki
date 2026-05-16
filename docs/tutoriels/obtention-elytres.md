@@ -2,8 +2,6 @@
 
 En vanilla MC, les **élytres** se trouvent uniquement dans les coffres des **End ships** des End cities. Sur TdR, le End est généré mais vidé, donc pas d'End city accessible. On a remplacé par une mécanique custom inspirée de **CarpetSkyAdditions**.
 
-!!! info "Vidéo à venir"
-    Tuto vidéo en cours.
 
 <!--
 <iframe width="100%" height="500"

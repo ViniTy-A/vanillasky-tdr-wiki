@@ -58,13 +58,13 @@ Toutes les vidéos seront hébergées sur **YouTube non répertorié** (visibles
 
     Comment obtenir l'enchantement Furtivité rapide sur TdR.
 
--   :material-feather: **[Obtention des Élytres](obtention-elytres.md)**
-
-    Comment obtenir une paire d'élytres sur TdR.
-
 -   :material-treasure-chest: **[Obtention de Shulker Box](obtention-shulker-box.md)**
 
     Comment obtenir des shulker boxes sur TdR.
+
+-   :material-feather: **[Obtention des Élytres](obtention-elytres.md)**
+
+    Comment obtenir une paire d'élytres sur TdR.
 
 -   :material-flower-pollen: **[Farm de coraux automatique](farm-corail.md)**
 

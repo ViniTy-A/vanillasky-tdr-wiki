@@ -2,17 +2,6 @@
 
 En vanilla MC, les **shulkers** vivent uniquement dans les **End cities** du End extérieur. Sur TdR, le End est généré mais vidé → pas d'End city accessible. La solution custom : **re-respawn et re-tuer le Dragon de l'End**.
 
-!!! info "Vidéo à venir"
-    Tuto vidéo en cours.
-
-<!--
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Obtention de Shulker Box — Vanilla Sky TdR" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
--->
-
 ## La mécanique custom TdR
 
 Mixin `EnderDragonFightShulkerMixin` : lorsque le Dragon de l'End est tué pour la **2e fois ou plus** , **un Shulker spawne automatiquement 4 blocs au-dessus du portail de sortie** (sommet du pilier de bedrock central).

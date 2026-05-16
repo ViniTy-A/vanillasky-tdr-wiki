@@ -2,9 +2,9 @@
 
 Le système des **chambres des épreuves** sur TdR suit un modèle **strict CSA-Reborn** : pas d'activation passive, ressources rebalancées, et les ornements d'armure ne s'obtiennent **plus** via les coffres-forts mais via des challenges Tier 3.
 
-## Taille des chambres réduite (~/5)
+## Taille des chambres réduite (~/6)
 
-Le paramètre `size` du jigsaw vanilla est passé de **20 → 4** via override `data/minecraft/worldgen/structure/trial_chambers.json`. Conséquence : moins de salles générées, donc **~2-4 générateurs** et **~1 coffre-fort** par chambre (contre 15-25 spawners et 5-10 vaults en vanilla).
+Le paramètre `size` du jigsaw vanilla est passé de **20 → 3** via override `data/minecraft/worldgen/structure/trial_chambers.json`. Conséquence : moins de salles générées, donc **~1-3 générateurs** et **~1 coffre-fort** par chambre (contre 15-25 spawners et 5-10 vaults en vanilla).
 
 Pourquoi : la taille vanilla est démesurée pour le format skyblock à ressources rares, et la quantité de loot transforme une seule chambre en farm trivialisant. Le rééquilibrage maintient le challenge sans inonder le monde de ressources Tier 3.
 

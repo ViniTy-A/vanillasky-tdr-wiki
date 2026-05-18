@@ -1,6 +1,6 @@
 # Tuto — Comment avoir de l'or en early game
 
-L'or est essentiel en early game pour fabriquer des **pommes dorées**, indispensables pour **soigner des villageois zombies** (et donc débloquer le trade émeraudes → marchand ambulant ainsi que l'obtention de lave qui donnera de l'obsi, une ferme à fer , bref c'est une étape EXTREMENT important).
+L'or est essentiel en early game pour fabriquer des **pommes dorées**, indispensables pour **soigner des villageois zombies** (et donc débloquer le trade émeraudes → marchand ambulant ainsi que l'obtention de lave qui donnera de l'obsi, une ferme à fer , bref c'est une étape EXTREMENT importante).
 
 **Objectif typique** : 16 lingots d'or = 2 pommes dorées = 2 cures de villageois zombies.
 
@@ -73,13 +73,6 @@ Quand l'orage arrive et que la foudre tape le paratonnerre, tous les cochons dan
 
 C'est beaucoup, mais avec un cycle régulier (orages + reproduction des cochons survivants), tu accumules vite.
 
-## 🥄 Méthode secondaire : fondre le stuff en or (peu efficace)
-
-Les zombies et squelettes peuvent spawn avec **équipement en or** (épée en or, casque en or). Quand tu les tues, ils drop parfois leur stuff.
-
-→ Met le stuff au four → **1 pépite d'or** par item fondu.
-
-Recommandé uniquement comme bonus quand tu farms les zombies pour autre chose (fer, par exemple), mais pas comme source principale.
 
 ## Stratégie recommandée
 

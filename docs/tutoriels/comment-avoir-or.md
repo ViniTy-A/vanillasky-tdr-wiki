@@ -77,7 +77,7 @@ C'est beaucoup, mais avec un cycle régulier (orages + reproduction des cochons 
 ## Stratégie recommandée
 
 ```
-Phase 1 — Farm de zombies + fer (~300 kills pour ~10 lingots de fer = chaudron + seau)
+Phase 1 — Farm de zombies + fer (~1200 kills sans Looting, ~550 avec Butin III pour ~10 lingots de fer = chaudron + seau)
 Phase 2 — Spawn du 1er cochon + farm carottes/patates (grace aux drops zombies)
 Phase 3 — Reproduction cochons → enclos de 150 cochons
 Phase 4 — Paratonnerre + attente orage → transformation en masse

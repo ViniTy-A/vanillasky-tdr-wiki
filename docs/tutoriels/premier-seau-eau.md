@@ -17,10 +17,7 @@ Le zombie a une **chance de 2.5%** de roller son pool "rare drops", qui contient
 | II | ~1.50% (≈ 1 fer / 67 kills) |
 | III | **~1.83%** (≈ 1 fer / 55 kills) |
 
-→ Construis une **tour à mobs pathfind** qui ne nécessite pas d'eau (voir [Ferme à mobs sans eau](ferme-mobs-sans-eau.md)) et farme les zombies jusqu'à avoir **7 lingots de fer**. Sans Looting, c'est ~840 kills en moyenne (avec variance énorme). Avec Looting III, ~385 kills. **C'est très long** — c'est la phase la plus pénible du early game.
-
-!!! tip "Enchant Butin III dès que possible"
-    Dès que tu as une table d'enchantement + une épée diamant + 30 niveaux, push Butin III. Tu **divises par 2** ton temps de farm fer. Compense largement les niveaux investis.
+→ Construis une **tour à mobs pathfind** qui ne nécessite pas d'eau (voir [Ferme à mobs sans eau](ferme-mobs-sans-eau.md)) et farme les zombies jusqu'à avoir **7 lingots de fer**. Sans Looting, c'est ~840 kills en moyenne (avec variance énorme). **C'est très long** — c'est la phase la plus pénible du early game.
 
 ## Étape 2 — Crafter le chaudron + le poser
 
@@ -80,7 +77,7 @@ C'est le **trick essentiel** pour ne plus jamais manquer d'eau.
 ## Récap visuel
 
 ```
-Phase 1 (long) : ~1200 kills zombie sans Looting (~550 avec Butin III) → 10 lingots fer → 1 chaudron + 1 seau
+Phase 1 (long) : ~1200 kills zombie (à mains nues / épée sans Looting) → 10 lingots fer → 1 chaudron + 1 seau
 Phase 2 (long) : Pluie → chaudron plein → 1 seau d'eau ★ première source
 Phase 3 (∞)   : 1 source d'eau + fioles → infinie seaux d'eau
 ```

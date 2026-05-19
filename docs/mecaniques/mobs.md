@@ -62,6 +62,9 @@ Mécanique custom inspirée de CSA-Reborn. Quand un **Blaze** traverse un portai
 !!! info "Blaze nommés"
     Les Blaze nommés (avec étiquette) ne sont **pas** convertis (pour qu'on puisse les garder en pet). Conversion fonctionne dans les 2 sens géographiquement : depuis n'importe quel Nether (vanilla ou per-player) vers n'importe quel non-Nether.
 
+!!! tip "À quoi sert le bâton de Breeze ?"
+    Le bâton de Breeze est le **seul moyen** d'activer un **générateur des épreuves** dans les chambres des épreuves — l'auto-activation par proximité de joueur est désactivée sur ce serveur. Clic-droit sur un générateur inactif avec un bâton en main pour démarrer le combat (consomme 1 bâton par activation). Voir [Chambres des épreuves → Générateur activé via bâton de Breeze](chambres-epreuves.md#generateur-des-epreuves-active-via-baton-de-breeze-strict).
+
 ## Élytres (via endermite)
 
 Tue une **endermite** par toi-même (pas par un autre mob), pendant qu'**elle** est sous les effets **Chute lente** ET **Lévitation** simultanément. Drop 1 paire d'élytres.

@@ -14,18 +14,6 @@ La seed est **partagée entre tes 3 dimensions** (Overworld, Nether, End utilise
 !!! danger "Attention au typosquat"
     Le vrai Chunkbase est **chunkbase.com**. Le domaine **.net** est un faux site qui sert des scams type "Your computer is infected — Avast". Utilise toujours le bouton in-game (qui pointe vers le bon domaine) plutôt que de taper l'URL à la main.
 
-## `/island keepalive on|off`
-
-Contrôle si tes 3 mondes restent chargés quand tu es déconnecté.
-
-| Option | Comportement |
-|---|---|
-| `off` (défaut) | Tes mondes sont déchargés dès que tu quittes. Les farms AFK ne tournent plus. |
-| `on` | Tes 3 mondes (Overworld + Nether + End) restent chargés. Tes farms AFK continuent, tes plantes poussent. |
-
-!!! warning "Coût ressources"
-    `keepalive on` fait tourner ton serveur même quand tu ne joues pas. À utiliser avec parcimonie (le serveur consomme des ressources pour toi).
-
 ## `/recompense`
 
 Délivre les récompenses en attente quand ton inventaire était plein lors de l'obtention d'un succès. Si l'inventaire est encore plein, te dit combien restent en attente.

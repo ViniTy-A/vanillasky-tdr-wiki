@@ -32,7 +32,7 @@ Biomes et zones des structures existent encore — à toi de les découvrir, dan
 
 -   :material-console: **[Commandes](commandes.md)**
 
-    `/myseed`, `/island keepalive`, `/recompense`, `/reset` — toutes les commandes spécifiques au serveur.
+    `/myseed`, `/recompense`, `/reset` — toutes les commandes spécifiques au serveur.
 
 -   :material-tools: **[Recettes custom](recettes/index.md)**
 

@@ -50,9 +50,7 @@ Cible : **140** minimum dans ton enclos pour optimiser le retour par orage.
 
 ### Étape 4 — Attendre un orage
 
-Les orages sont aléatoires en MC (chaque pluie a une chance de devenir orage). Patience.
-
-`/island keepalive on` pour que ça tourne même offline.
+Les orages sont aléatoires en MC (chaque pluie a une chance de devenir orage). Patience — il faut être à proximité (dans la simulation distance) pour que l'orage progresse et que la foudre frappe.
 
 ### Étape 5 — La foudre frappe
 

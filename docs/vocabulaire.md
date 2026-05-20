@@ -42,17 +42,13 @@ Un chunk « chargé » est un chunk qui tick activement.
 
 ## Force-load
 
-Mécanisme qui maintient un chunk chargé même si aucun joueur n'est à proximité. Indispensable pour qu'une farm AFK continue de tourner quand tu es loin.
+Mécanisme qui maintient un chunk chargé même si aucun joueur n'est à proximité. Indispensable pour qu'une farm continue de tourner quand tu es loin.
 
-Sur ce serveur, les seuls chunks force-loaded sont les chunks de spawn de chaque dim vanillasky ; pour le reste, utilise `/island keepalive on` qui garde tes 3 dims chargées même offline.
-
-## Keepalive
-
-Option custom du mod (`/island keepalive on|off`). Quand activé, tes 3 dims restent chargées même quand tu te déconnectes — tes farms AFK continuent.
+Sur ce serveur, les seuls chunks force-loaded sont les chunks de spawn de chaque dim vanillasky.
 
 ## AFK farm
 
-Farm conçue pour produire automatiquement des ressources pendant que tu es immobile (ou même offline avec keepalive).
+Farm conçue pour produire automatiquement des ressources pendant que tu es immobile à proximité.
 
 Exemples : farm d'or sur portails Nether, farm de Warden sur l'ancienne cité, farm de coraux.
 

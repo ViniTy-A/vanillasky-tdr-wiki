@@ -90,7 +90,7 @@ En résumé :
 
 ## Astuces
 
-- **`/island keepalive on`** : laisse le farm tourner même offline pour accumuler du stock
+- **Reste à proximité** : le farm tourne tant que les chunks sont dans ta simulation distance
 - **Multi-biomes** : si possible, place tes différents farms de coraux dans différents biomes pour comparer les vitesses
 - **Décoration** : les blocs de corail vivants sont magnifiques pour décorer ton base / l'extérieur
 

@@ -4,7 +4,7 @@
 
 **Bloc / gorgone / plante de corail mort** adjacent à de l'eau (source ou courante) → **10%/scan tick (5s)** de chance d'éroder → devient eau + drop sable.
 
-Compatible farms AFK (chunks force-loaded + `/island keepalive on`).
+Compatible farms AFK tant que les chunks sont chargés (force-load + simulation distance).
 
 ## Sable rouge
 

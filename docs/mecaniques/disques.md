@@ -53,4 +53,4 @@ Pour faciliter l'obtention de ces disques :
 4. Le squelette doit tirer une flèche sur le creeper pour le tuer
 
 !!! tip "AFK farm"
-    Combiné à `/island keepalive on`, tu peux laisser le farm tourner même offline.
+    Reste à proximité (dans la simulation distance) pour que les chunks tickent et que les mobs spawnent.

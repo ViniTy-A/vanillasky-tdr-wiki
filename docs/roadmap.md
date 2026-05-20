@@ -88,7 +88,6 @@
 
 ### Commandes serveur
 - [x] `/myseed` + alias FR `/maseed`
-- [x] `/island keepalive on|off`
 - [x] `/recompense` (récompenses en attente)
 - [x] `/reset` + alias FR `/recommencer` (avec confirmation 2 étapes + cooldown 15 min)
 - [x] Commandes admin OP : `/god`, `/fly`, `/heal`, `/feed`

@@ -64,7 +64,7 @@ Sur TdR, **1% des noyés** qui spawnent ont un **œuf de renifleur dans leur mai
 
 1. Place tes œufs de tortue près d'un océan / rivière
 2. Crée une zone de spawn de noyés (sombre, proche de l'eau)
-3. `/island keepalive on`
+3. Reste sur ton île à proximité pour que les chunks tickent
 4. Attends quelques jours en jeu
 
 ### Identification du porteur

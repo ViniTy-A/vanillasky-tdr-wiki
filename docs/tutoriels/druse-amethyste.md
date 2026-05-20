@@ -55,7 +55,7 @@ C L C
 
 Toutes les **~2h en moyenne**, la lave centrale se transforme en **druse d'améthyste**.
 
-Pour accélérer : laisse les chunks chargés (`/island keepalive on`) et fais d'autres choses pendant ce temps.
+Pour accélérer : reste à proximité (dans la simulation distance) pour que les chunks tickent, et fais d'autres choses sur ton île pendant ce temps.
 
 ## Étape 5 — Récolter
 
